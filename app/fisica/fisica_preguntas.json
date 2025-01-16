@@ -1,0 +1,352 @@
+{
+    "preguntes": [
+        {
+            "id": 1,
+            "text": "En un angle d'anteversió disminuït veurem:",
+            "respostes": {
+                "a": "Una rotació interna augmentada",
+                "b": "Una rotació externa disminuïda",
+                "c": "Una rotació interna disminuïda",
+                "d": "Una rotació externa augmentada"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 2,
+            "text": "En un var de genoll trobarem:",
+            "respostes": {
+                "a": "Dues són correctes",
+                "b": "El segment que surt de la coxofemoral s'allunya de la línia mitja del cos",
+                "c": "Augment de pressió al compartiment intern",
+                "d": "Relaxació càpsulo-lligamentosa del compartiment extern"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 3,
+            "text": "Assenyala la incorrecta:",
+            "respostes": {
+                "a": "En addució de maluc el lligament pubofemoral es distén",
+                "b": "En una alineació normal els lligaments es troben relaxats",
+                "c": "En extensió de maluc el lligament que més es tensa és l'iliofemoral",
+                "d": "A la flexió de maluc tots els lligaments es destensen (inestabilitat)"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 4,
+            "text": "Assenyala la incorrecta:",
+            "respostes": {
+                "a": "L'angle cérvico-diafisari del fémur és de 135º",
+                "b": "Un angle cérvico-diafisari superior a la norma s'anomena coxa valga",
+                "c": "L'angle d'anteversió femoral és de 40º a la etapa adulta",
+                "d": "L'angle cérvico-diafisari varia al llarg de la vida"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 5,
+            "text": "L'articulació fémoro-rotuliana",
+            "respostes": {
+                "a": "Dóna estabilitat funcional sota càrrega",
+                "b": "No permet que la força del quàdriceps es transmeti en angle durant la flexió",
+                "c": "Disminueix el braç de palanca efectiu del quàdriceps",
+                "d": "No proporciona un escut ossi sobre l'articulació en flexió"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 6,
+            "text": "Assenyala la incorrecta:",
+            "respostes": {
+                "a": "El menisc intern està més obert que l'extern",
+                "b": "El lligament creuat anterior es creua amb el lateral intern",
+                "c": "El lligament creuat anterior frena la translació anterior de la tíbia sobre el fèmur",
+                "d": "A les banyes meniscals es troben els mecanoreceptors"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 7,
+            "text": "Assenyala la correcta:",
+            "respostes": {
+                "a": "L'articulació de Chopart és la tarsometatarsiana",
+                "b": "L'articulació de Lisfranch està formada per: escafoides, astràgal i les 3 cunyes",
+                "c": "Totes són falses",
+                "d": "L'articulació de Lisfranch permet la inversió i la eversió"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 8,
+            "text": "A la flexió dorsal el mal·lèol peroneal:",
+            "respostes": {
+                "a": "Ascendeix i s'anterioritza",
+                "b": "Ascendeix i es posterioritza",
+                "c": "Descendeix i es posterioritza",
+                "d": "Descendeix i s'anterioritza"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 9,
+            "text": "En quant a les fases de la marxa:",
+            "respostes": {
+                "a": "Una caiguda de la pelvis es considera patològica",
+                "b": "En una marxa patològica, una persona pot intentar suplir la contrarrotació de la cintura escapular amb els braços.",
+                "c": "L'escala de valoració de Tinetti valora exclusívament la marxa",
+                "d": "La fase d'oscil·lació i la de suport unipodal, s'analitzen juntes"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 10,
+            "text": "A la fase d'impuls:",
+            "respostes": {
+                "a": "Al pla frontal una hemipelvis cau 5º",
+                "b": "Al pla frontal, el tibial anterior que és un múscul inversor, inverteix la seva acció",
+                "c": "Al pla horitzontal les coxofemorals estan en neutre",
+                "d": "Al pla sagital, el tríceps sural fa una contracció excèntrica"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 11,
+            "text": "A la fase d'oscil·lació:",
+            "respostes": {
+                "a": "Al pla sagital els isquiotibials treballen de manera excèntrica i el recte anterior en concèntric",
+                "b": "Hi ha un treball de l'oblic major, extern, contralateral i l'oblic menor, intern, homolateral",
+                "c": "La caiguda implícita de la pelvis al pla frontal la controla el gluti mig en excèntric",
+                "d": "Al pla horitzontal, la cintura escapular es troba en rotació homolateral a la cintura pèlvica"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 12,
+            "text": "A la fase de recepció:",
+            "respostes": {
+                "a": "Si hi ha una marxa en steppage veurem una afectació del tibial anterior",
+                "b": "Al pla sagital quan el taló contacta amb el terra, el peu s'adapta fent una ràpida flexió dorsal",
+                "c": "Al pla horitzontal, la cama d'impuls es troba en rotació externa",
+                "d": "Al pla horitzontal, els rotadors fan un treball en excèntric"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 13,
+            "text": "A la fase de suport unipodal:",
+            "respostes": {
+                "a": "És important que hi hagi una lleugera flexió de maluc, genoll i turmell per garantir l'estabalitat",
+                "b": "Al pla sagital hi ha un predomini de treball concèntric excepte en el cas del tríceps sural que treballa en excèntric",
+                "c": "És important que hi hagi una lleugera flexió de maluc i genoll per garantir l'estabalitat",
+                "d": "És important que hi hagi una lleugera flexió de genoll per garantir l'estabalitat"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 14,
+            "text": "La marxa del nen i la tercera edat, assenyala la incorrecta:",
+            "respostes": {
+                "a": "Cames en rotació interna",
+                "b": "Disminució de la velocitat del pas",
+                "c": "Disminució de la longitud del pas",
+                "d": "Peus més separats"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 15,
+            "text": "Marxa típica en atròfies o paràlisi del gluti mitjà:",
+            "respostes": {
+                "a": "Marxa antiàlgica",
+                "b": "Marxa en Trendelenburg",
+                "c": "Marxa atàxica",
+                "d": "Marxa equina"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 16,
+            "text": "A la fase de recepció, el múscul més important al pla frontal és:",
+            "respostes": {
+                "a": "Rotadors externs",
+                "b": "Cap d'ells",
+                "c": "Tibial anterior",
+                "d": "Rotadors interns"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 17,
+            "text": "La facilitació neuromuscular propioceptiva:",
+            "respostes": {
+                "a": "És una tècnica exclusiva de la rehabilitació neurològica.",
+                "b": "Es basa en moviments analítics i concrets.",
+                "c": "Treballa la força i el rang de moviment.",
+                "d": "Dues són correctes"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 18,
+            "text": "En quant al sistema propioceptiu:",
+            "respostes": {
+                "a": "Els quimioreceptors són uns dels més importants que treballem a fisioteràpia",
+                "b": "Els receptors propioceptius sans no cal treballar-los",
+                "c": "Com és un sistema autònom no passa pel sistema nerviós central.",
+                "d": "Davant d'una lesió, podem trobar, a la vegada, alteracions propioceptives diverses, fins i tot, algunes que no es podran recuperar."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 19,
+            "text": "Quan una resistència donada és major que la tensió exercida pel múscul determinat, de manera que aquest s'allarga es\ndiu que és una contracció:",
+            "respostes": {
+                "a": "Concèntrica",
+                "b": "Isomètrica",
+                "c": "Isocinètica",
+                "d": "Excèntrica"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 20,
+            "text": "Forces iguals i oposades aplicades cap a fora de la superfície de l'estructura:",
+            "respostes": {
+                "a": "Compressió",
+                "b": "Tracció",
+                "c": "Flexió",
+                "d": "Cisalla"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 21,
+            "text": "Al cartílag, quina capa té més contingut de sals de calci?",
+            "respostes": {
+                "a": "Zona III",
+                "b": "Zona I",
+                "c": "Zona II",
+                "d": "Zona IV"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 22,
+            "text": "L'angle format entre la direcció de l'eix longitudinal del peu i una línia imaginària que segueix l'eix longitudinal del cos:",
+            "respostes": {
+                "a": "Angle de Fick",
+                "b": "Angle de retroversió femoral",
+                "c": "Angle Q",
+                "d": "Angle d'anterversió femoral"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 23,
+            "text": "Quin ós, per la seva morfologia, presenta un risc de necrosi en cas de fractura",
+            "respostes": {
+                "a": "Semilunar",
+                "b": "Os gran",
+                "c": "Escafoides",
+                "d": "Ganxós"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 24,
+            "text": "La pinça amb la que el contacte es realitza amb les polpes dels dits",
+            "respostes": {
+                "a": "Pinça d'oposició terminal",
+                "b": "Pinça látero-lateral",
+                "c": "Pinça d'oposició subterminal",
+                "d": "Pinça d'oposició subtermino-lateral"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 25,
+            "text": "L'angle format per una línia que va de l'EIAS al centre de la ròtula i des del centre de la ròtula fins a la TTA?",
+            "respostes": {
+                "a": "Angle d'anterversió femoral",
+                "b": "Angle de Fick",
+                "c": "Angle de retroversió femoral",
+                "d": "Angle Q"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 26,
+            "text": "En un gràfic e-t (espai-temps) del moviment d'un mòbil ...",
+            "respostes": {
+                "a": "l'àrea sota la corba entre dos instants de temps és la velocitat mitjana del mòbil en l'interval de temps considerat.",
+                "b": "el pendent de la recta que uneix dos punts és el valor de l'acceleració mitjana en l'interval de temps considerat.",
+                "c": "el pendent de la recta que uneix dos punts és el valor de la velocitat mitjana en l'interval de temps considerat.",
+                "d": "l'àrea sota la corba entre dos instants de temps és l'acceleració mitjana del mòbil en l'interval de temps considerat."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 27,
+            "text": "El tir parabòlic és la combinació de dos tipus de moviment",
+            "respostes": {
+                "a": "Un moviment rectilini uniformement accelerat en l'eix horitzontal i un moviment rectilini uniforme en l'eix vertical.",
+                "b": "Un moviment rectilini uniformement accelerat en l'eix vertical i un moviment rectilini uniforme en l'eix horizontal.",
+                "c": "Un moviment circular uniformement accelerat en l'eix vertical i un moviment rectilini uniforme en l'eix horizontal.",
+                "d": "Un moviment circular uniforme en l'eix vertical i un moviment rectilini uniforme en l'eix horizontal."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 28,
+            "text": "En un moviment circular uniforme ...",
+            "respostes": {
+                "a": "El mòbil segueix una trajectória circular i no està accelerat.",
+                "b": "El mòbil pateix una acceleració constant, anomenada acceleració normal, que modifica la direcció de la seva velocitat en cada punt de la seva trajectòria.",
+                "c": "El mòbil segueix una trajectòria circular a velocitat constant (en mòdul i direcció).",
+                "d": "El mòbil està accelerat degut a una acceleració constant, anomenada acceleració normal, perpendicular a la seva velocitat en cada punt de la seva trajectòria i que modifica el seu mòdul."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 29,
+            "text": "L'espai recorregut per un mòbil...",
+            "respostes": {
+                "a": "és una magnitud escalar que mesura la longitud del recorregut entre la posició inicial i final del mòbil mesurada sobre la trajectòria.",
+                "b": "és una magnitud vectorial que només depèn de la posició inicial i final del mòbil i és independent de la trajectòria.",
+                "c": "és una magnitud vectorial de mòdul igual a la distància recorreguda pel mòbil.",
+                "d": "és una magnitud escalar que indica la distància en línia recta des de la posició inicial fins la poscició final del moviment."
+            },
+            "correcta": "a",
+            "type": "multi"
+        }
+    ]
+}
