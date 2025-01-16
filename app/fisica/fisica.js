@@ -30,9 +30,8 @@ function cargarPreguntas(archivo) {
           t.text === pregunta.text
         ))
       );
-      totalPreguntas = preguntas.length;
-      console.log(totalPreguntas)
-      document.querySelector('h1').innerText = `Pregunta ${preguntaActualIndex + 1} de ${totalPreguntas}`;
+      preguntasInicial = Math.max(preguntasInicial, ...preguntas.map(p => p.id));
+      document.querySelector('h1').innerText = `Pregunta ${preguntaActualIndex + 1} de ${preguntasInicial}`;
       mostrarPregunta();
     });
 }
@@ -48,8 +47,9 @@ function mostrarPregunta() {
     //eliminar h2 id disclaimer
     document.getElementById('disclaimer').setAttribute("hidden", "true");
   }
-  totalPreguntas = preguntas.length;
-  document.querySelector('h1').innerText = ` Pregunta ${preguntaActualIndex + 1} de ${totalPreguntas}`;
+
+  preguntasInicial = Math.max(preguntasInicial, ...preguntas.map(p => p.id));
+  document.querySelector('h1').innerText = ` Pregunta ${preguntaActualIndex + 1} de ${preguntasInicial}`;
   if (preguntaActualIndex >= preguntas.length) {
     document.getElementById('pregunta').innerText = 'No hay más preguntas.';
     Swal.fire({
