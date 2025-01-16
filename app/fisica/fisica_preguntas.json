@@ -347,6 +347,210 @@
             },
             "correcta": "a",
             "type": "multi"
+        },
+        {
+            "id": 30,
+            "text": "La tercera llei de Newton estableix que",
+            "respostes": {
+                "a": "La força Normal és la força de reacció al pes d'un cos, que és la força d'acció.",
+                "b": "Si un cos exerceix una força sobre un altre, aquest exercirà una força sobre el primer d'igual mòdul i direcció, però de sentit oposat.",
+                "c": "En resposta a una força d'acció sobre un cos, apareix una altra força sobre el mateix cos, d'igual mòdul i direcció però de sentit oposat a la primera, anomenada força de reacció.",
+                "d": "Dos cossos s'atrauen amb una força directament proporcional al producte de les seves masses i inversament proporcional al quadrat de la distància que les separa."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 31,
+            "text": "L'acceleració que experimenta un cos degut a la gravetat…",
+            "respostes": {
+                "a": "depèn del pes del cos.",
+                "b": "únicament depèn de la massa del cos.",
+                "c": "depèn de la massa del cos i de la distància a la qual es troba el cos de la superfície terrestre.",
+                "d": "no depèn de la massa del cos, és la mateixa per a tots els cossos en caiguda lliure sobre la Terra."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 32,
+            "text": "Quina de les següents afirmacions és INCORRECTA?",
+            "respostes": {
+                "a": "L'estabilitat d'un cos és menor quant més baix estigui el seu centre de gravetat.",
+                "b": "L'estabilitat d'un cos augmenta a mesura que el seu centre de gravetat baixa.",
+                "c": "Un cos es mantindrà estable mentre la projecció vertical del seu centre de gravetat estigui sobre la seva base de sustentació.",
+                "d": "L'estabilitat d'un cos és més gran quant més gran és la seva base de sustentació."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 33,
+            "text": "Una persona mou una capsa de 30kg amb una força de 150N en línia recta sobre una superfície amb un coeficient de fregament dinàmic de 0,4. Considerant g=10m/s2, quina de les següents afirmacions és correcta?.",
+            "respostes": {
+                "a": "La capsa es mou amb una acceleració constant sobre la superfície.",
+                "b": "La capsa es mou amb una acceleració creixent, ja que la força aplicada és més gran que la força de fregament i això resulta en una força neta positiva.",
+                "c": "La capsa, que inicialment està en moviment, disminuirà la seva velocitat fins a parar degut al fregament.",
+                "d": "La capsa es mou amb una velocitat constant sobre la superfície."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 34,
+            "text": "Quina és la força màxima de tracció que pot suportar el fèmur humà considerant que la seva secció és de 9 cm2 i que l'esforç de trencament per tracció d'aquest os és de 17·107 N/m2?",
+            "respostes": {
+                "a": "1,7·10^5 N",
+                "b": "2·10^3 N",
+                "c": "1,53·10^5 N",
+                "d": "El valor depèn de la longitud de l'os."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 35,
+            "text": "El punt de màxim esforç en una corba d'Esforç-Deformació:",
+            "respostes": {
+                "a": "es correspon amb el punt de màxima deformació del material.",
+                "b": "coincideix o és proper al punt de màxima deformació en materials dúctils.",
+                "c": "coincideix o és proper al punt de màxima deformació en materials fràgils.",
+                "d": "coincideix amb el punt de trencament del material."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 36,
+            "text": "Quan un objecte, inicialment neutre, es carrega elèctricament:",
+            "respostes": {
+                "a": "és degut a un desplaçament dels seus electrons, ja sigui per cessió (quan queda carregat positivament), o per guany d'electrons (quan queda carregat negativament).",
+                "b": "és degut a una cessió d'electrons quan queda carregat negativament i a una cessió de protons quan queda carregat positivament.",
+                "c": "és degut a un guany d'electrons quan queda carregat negativament i a un guany de protons quan queda carregat positivament.",
+                "d": "és degut a una cessió d'electrons quan queda carregat positivament i a una cessió de protons quan queda carregat negativament."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 37,
+            "text": "Segons la llei d'Ohm:",
+            "respostes": {
+                "a": "La intensitat de corrent en un circuit elèctric només depèn de la diferència de potencial a que està sotmès, no depèn de la resistència del circuit.",
+                "b": "Per a una diferència de potencial determinada, una disminució en la resistència d'un circuit elèctric, implica una disminució de la intensitat de corrent que hi circula.",
+                "c": "Per a una diferència de potencial determinada, un augment en la resistència d'un circuit elèctric, implica una disminució de la intensitat de corrent que hi circula.",
+                "d": "Per a una diferència de potencial determinada, un augment en la resistència d'un circuit elèctric, implica un augment de la intensitat de corrent que hi circula."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 38,
+            "text": "La radiació és un tipus de transferència de calor mitjançant ...",
+            "respostes": {
+                "a": "ones electromagnètiques.",
+                "b": "ones sonores.",
+                "c": "el moviment del fluid que transporta la calor.",
+                "d": "contacte directe."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 39,
+            "text": "La temperatura, que s'expressa en K, ºC o ºF, és una mesura de ...",
+            "respostes": {
+                "a": "L'energia mecànica d'un cos.",
+                "b": "La capacitat calorífica específica.",
+                "c": "La calor que es transmet d'un cos a un altre.",
+                "d": "L'energia interna d'un cos (energia cinètica mitjana deguda al moviment de les molècules que el formen)."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 40,
+            "text": "Des del terrat d'un edifici es deixen caure dues boles del mateix tamany, una de fusta i l'altra de plom (per tant de diferent massa). Indica quina de les següents afirmacions és correcta:",
+            "respostes": {
+                "a": "Les dues boles tenen la mateixa energia mecànica a l'inici de la caiguda.",
+                "b": "Les dues boles arriben al terra amb la mateixa velocitat.",
+                "c": "Inicialment les dues boles tenen la mateixa energia potencial perquè estan a la mateixa alçada del carrer.",
+                "d": "Les dues boles arriben al carrer amb la mateixa energia cinètica."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 41,
+            "text": "La força de reacció articular ...",
+            "respostes": {
+                "a": "és sempre nul·la.",
+                "b": "té sempre el seu punt d'aplicació en l'articulació i mai exerceix moment.",
+                "c": "apunta sempre cap amunt.",
+                "d": "és sempre d'igual mòdul i contrària al pes del segment articulat."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 42,
+            "text": "En una extensió de turmell (o flexió plantar) sense recolzament a la superfície, la força muscular del tríceps sural es transmet a través del tendó d'Aquiles fent que el peu pivoti sobre l'articulació del turmell. De quin tipus de palanca es trata?",
+            "respostes": {
+                "a": "És una palanca de primer gènere.",
+                "b": "No és cap tipus de palanca.",
+                "c": "És una palanca de tercer gènere.",
+                "d": "És una palanca de segon gènere"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 43,
+            "text": "Una molla s'estira 5cm quan s'hi penja una massa de 1kg. Quin és el valor de la constant elàstica de la molla? (Considereu g=10 m/s2)",
+            "respostes": {
+                "a": "La constant elàstica de la molla és de 2000 N/m.",
+                "b": "La constant elàstica de la molla és de 20 N/m.",
+                "c": "La constant elàstica de la molla és de 200 N/m.",
+                "d": "La constant elàstica de la molla és de 2 N/m."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 44,
+            "text": "La llum de l'infraroig ...",
+            "respostes": {
+                "a": "son ones ones electromagnètiques de molt alta freqüència i longitud d'ona molt curta, propera a la dels raigs X.",
+                "b": "són ones electromàgnètiques amb una longitud d'ona per sota dels 400nm i, per tant, fora del rang visible de l'espectre.",
+                "c": "son ones electromagnètiques que necessiten d'un mitjà per a propagar-se.",
+                "d": "són ones electromàgnètiques amb una longitud d'ona superior als 700nm i, per tant, fora del rang visible de l'espectre."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 45,
+            "text": "Quina de les següents afirmación és INCORRECTA?",
+            "respostes": {
+                "a": "Les ones electromagnètiques són ones transversals.",
+                "b": "El so és una ona mecànica transversal.",
+                "c": "El so és una ona mecànica longitudinal.",
+                "d": "La llum és una ona transversal que es pot propagar en el buit."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 46,
+            "text": "S'agita una corda per un extrem amb una freqüència de 2 Hz i una amplitud de 3 cm. Si la perturbació es propaga amb una velocitat de 0,5 m/s:",
+            "respostes": {
+                "a": "La longitud de l'ona propagada és de 0,5 metres cada segon.",
+                "b": "La longitud de l'ona propagada és de 6 cm, el doble de la seva amplitud.",
+                "c": "L'ona propagada té una longitud d'ona de 25 cm.",
+                "d": "No tenim prou informació per calcular la seva longitud d'ona."
+            },
+            "correcta": "c",
+            "type": "multi"
         }
     ]
 }
