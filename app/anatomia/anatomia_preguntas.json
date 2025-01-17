@@ -1,0 +1,604 @@
+{
+    "preguntes": [
+        {
+            "id": 1,
+            "text": "¿Quin lligament connecta l'os escafoides amb l'apòfisi estiloide del radi i contribueix a l'estabilitat lateral de\nl'articulació radiocarpiana?",
+            "respostes": {
+                "a": "Lligament col·lateral cubital",
+                "b": "Lligament col·lateral radial",
+                "c": "Lligament interossi carpià",
+                "d": "Lligament radiocarpiano dorsal"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 2,
+            "text": "¿Quin dels següents lligaments pertany a l'articulació esternoclavicular i reforça la càpsula articular superiorment?",
+            "respostes": {
+                "a": "Lligament esternoclavicular anterior",
+                "b": "Lligament coracoacromial",
+                "c": "Lligament costoclavicular",
+                "d": "Lligament interclavicular"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 3,
+            "text": "¿Quina característica descriu millor al menisc lateral del genoll?",
+            "respostes": {
+                "a": "Forma d'O i no unit al lligament col·lateral lateral",
+                "b": "Forma de C i menor mobilitat",
+                "c": "Forma d'O i més fix que el menisc medial",
+                "d": "Forma d'anell tancat i unit al lligament col·lateral tibial"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 4,
+            "text": "¿Quin de les següents és una característica del múscul iliocostal?",
+            "respostes": {
+                "a": "La seva funció principal és la rotació contralateral de la columna.",
+                "b": "Es divideix en tres porcions: lumbar, toràcica i cervical",
+                "c": "S'origina en les apòfisis espinoses cervicals",
+                "d": "És un múscul intrínsec relacionat amb l'espiració"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 5,
+            "text": "En relació amb els moviments assenyali l'opció correcta",
+            "respostes": {
+                "a": "L'abducció/adducció es realitzen en un pla sagital al voltant de l'eix transversal.",
+                "b": "La flexió/extensió es realitzen en el pla transversal al voltant de l'eix sagital.",
+                "c": "La abducción/aducción se realizan en el plano transversal alrededor del eje sagital.",
+                "d": "La flexió/extensió es realitzen en el pla sagital al voltant de l'eix transversal."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 6,
+            "text": "¿Quin és l'origen del múscul piriforme?",
+            "respostes": {
+                "a": "Espina ilíaca anterosuperior",
+                "b": "Cara anterior del sacre",
+                "c": "Cresta ilíaca",
+                "d": "Línia aspra del fèmur"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 7,
+            "text": "¿Quina és la funció del múscul multifidus durant una contracció unilateral?",
+            "respostes": {
+                "a": "Flexió lateral ipsilateral i rotació contralateral de la columna",
+                "b": "Rotació contralateral i flexió lateral contralateral",
+                "c": "Realitzar una rotació ipsilateral de la columna lumbar",
+                "d": "Extensió de la columna torácica"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 8,
+            "text": "¿Quin múscul constitueix la part més important del diafragma pelvià?",
+            "respostes": {
+                "a": "Múscul isquiocavernoso",
+                "b": "Múscul transvers profund del perineu",
+                "c": "Múscul bulboesponjoso",
+                "d": "Múscul elevador de l'anus"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 9,
+            "text": "¿Quin nervi innerva el múscul flexor cubital del carp i el múscul flexor profund dels dits?",
+            "respostes": {
+                "a": "Nervi cubital",
+                "b": "Nervi mitjà",
+                "c": "Nervi axil·lar",
+                "d": "Nervi radial"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 10,
+            "text": "¿Quin nervi del plexe lumbar proporciona innervació motora al cuádriceps i sensitiva a la cara anterior de la cuixa?",
+            "respostes": {
+                "a": "Nervi femoral",
+                "b": "Nervi ciàtic",
+                "c": "Nervi obturador",
+                "d": "Nervi peroneal profund"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 11,
+            "text": "¿Quin nervi innerva al diafragma?",
+            "respostes": {
+                "a": "Nervi vague",
+                "b": "Nervi frènic",
+                "c": "Nervis intercostals",
+                "d": "Plexe lumbar"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 12,
+            "text": "¿Quin és el nervi que passa pel conducte carpià?",
+            "respostes": {
+                "a": "Nervi mitjà",
+                "b": "Nervi interossi anterior",
+                "c": "Nervi radial",
+                "d": "Nervi ulnar"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 13,
+            "text": "¿Quin nervi innerva el múscul coracobraquial, el múscul braquial i el múscul bíceps braquial?",
+            "respostes": {
+                "a": "Nervi musculocutani",
+                "b": "Nervi radial",
+                "c": "Nervi axil·lar",
+                "d": "Nervi mitjà"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 14,
+            "text": "¿Quin nervi innerva el múscul elevador de l'anus?",
+            "respostes": {
+                "a": "Nervi obturador",
+                "b": "Nervi femoral",
+                "c": "Nervi pudend",
+                "d": "Nervi ilioinguinal"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 15,
+            "text": "¿Que múscul no està innervat pel nervi radial?",
+            "respostes": {
+                "a": "Supinador",
+                "b": "Extensor dels dits",
+                "c": "Abductor llarg del polze",
+                "d": "Flexor profund dels dits"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 16,
+            "text": "¿Quin nervi innerva la musculatura del compartiment posterior de la cama i la planta del peu?",
+            "respostes": {
+                "a": "Nervi tibial",
+                "b": "Nervi femoral",
+                "c": "Nervi ciàtic",
+                "d": "Nervi peroneal superficial"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 17,
+            "text": "¿Quin múscul s'insereix en la línia alba i contribueix a la premsa abdominal?",
+            "respostes": {
+                "a": "Múscul quadrat lumbar",
+                "b": "Múscul iliopsoas",
+                "c": "Múscul oblic intern",
+                "d": "Múscul piramidal"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 18,
+            "text": "¿Quin múscul del compartiment lateral de la cama és responsable de l'eversió del peu i el suport de l'arc longitudinal\ndel peu?",
+            "respostes": {
+                "a": "Tercer peroneal",
+                "b": "Peroneal llarg",
+                "c": "Tibial anterior",
+                "d": "Peroneal curt"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 19,
+            "text": "¿Quin és l'origen de la porció lumbar del diafragma?",
+            "respostes": {
+                "a": "Cossos vertebrals de L2-L4 i discos intervertebrals corresponents.",
+                "b": "Apòfisi xifoides de l'estèrnum",
+                "c": "Superfície interna de les costelles 7-12.",
+                "d": "Vora interna de l'arc costal"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 20,
+            "text": "En relació amb els ossos de l'avantbraç, assenyali l'opció correcta:",
+            "respostes": {
+                "a": "En la epífisis distal del radi trobem la tuberositat del radi",
+                "b": "El olècranon està situat en la epífisis distal del cúbit",
+                "c": "El cúbit allotja el cap del radi en la escotadura radial que es troba en la diàfisi.",
+                "d": "El radi té forma triangular amb tres vores: anterior, posterior i interossi."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 21,
+            "text": "¿Quin múscul, part del maniguet rotador, té com a inserció el tubercle menor de l'húmer i és el principal responsable de\nla rotació interna del braç?",
+            "respostes": {
+                "a": "Infraespinós",
+                "b": "Rodó menor",
+                "c": "Subescapular",
+                "d": "Supraespinós"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 22,
+            "text": "¿Quina estructura anatòmica del calcani serveix com a punt de suport per a l'astràgal?",
+            "respostes": {
+                "a": "Solc del calcani",
+                "b": "Sustentáculo de l'astràgal",
+                "c": "Tròclea peroneal",
+                "d": "Tuberositat calcánea"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 23,
+            "text": "¿Quin múscul del compartiment anterior de la cama s'encarrega de la dorsiflexió i la inversió del peu?",
+            "respostes": {
+                "a": "Peroneal llarg",
+                "b": "Extensor llarg del dit gros",
+                "c": "Extensor llarg dels dits",
+                "d": "Tibial anterior"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 24,
+            "text": "Quin múscul del grup posterior profund s'insereix principalment en l'escafoides i ajuda en la inversió del peu?",
+            "respostes": {
+                "a": "Tibial posterior",
+                "b": "Flexor llarg del dit gros",
+                "c": "Flexor llarg dels dits",
+                "d": "Sóleo"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 25,
+            "text": "Quina de les següents afirmacions és correcta sobre l'articulació acromioclavicular?",
+            "respostes": {
+                "a": "És una articulació sinovial del tipus “en silla de montar”.",
+                "b": "Realitza moviments de rotació sobre l'extremitat esternal de la clavícula.",
+                "c": "Té moviments limitats a la flexo-extensió",
+                "d": "Està reforçada pels lligaments acromioclavicular i coracoclavicular"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 26,
+            "text": "¿Quina és la principal artèria que irriga l'húmer i l'articulació del colze?",
+            "respostes": {
+                "a": "Artèria braquial",
+                "b": "Artèria axil·lar",
+                "c": "Artèria cubital",
+                "d": "Artèria radial"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 27,
+            "text": "¿Quina artèria forma l'aportació principal de l'arc palmar profund?",
+            "respostes": {
+                "a": "Artèria radial",
+                "b": "Artèria subclàvia",
+                "c": "Artèria braquial",
+                "d": "Artèria cubital"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 28,
+            "text": "¿Quina és l'artèria que dona origen a l'artèria toràcica interna?",
+            "respostes": {
+                "a": "Artèria intercostal suprema",
+                "b": "Artèria musculofrénica",
+                "c": "Artèria aorta toràcica",
+                "d": "Artèria subclàvia"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 29,
+            "text": "¿Quina de les següents afirmacions descriu correctament l'articulació costotransversa?",
+            "respostes": {
+                "a": "El seu moviment està limitat pel lligament intraarticular del cap costal",
+                "b": "És una sincondrosis entre la costella i l'estèrnum",
+                "c": "És una articulació sinovial plana entre el tubercle de la costella i l'apòfisi transversa de la vèrtebra.",
+                "d": "Es troba exclusivament en les costelles 11 i 12."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 30,
+            "text": "En relació amb les articulacions assenyali l'opció correcta:",
+            "respostes": {
+                "a": "L'articulació tipus artrodia té un eix de moviment",
+                "b": "L'articulació tipus trocoide té un eix de moviment",
+                "c": "L'articulació en cadira de muntar té un eix de moviment",
+                "d": "L'articulació tipus tròclea té dos eixos de moviment"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 31,
+            "text": "¿Quina característica distingeix a les articulacions cigapofisiarias cervicals de les lumbars?",
+            "respostes": {
+                "a": "Les lumbars són de tipus sinovial esfèrica.",
+                "b": "Les cervicals tenen càpsules articulars especialment laxes.",
+                "c": "Les cervicals manquen de càpsules articulars",
+                "d": "Les lumbars permeten moviments de flexió lateral sense restricció."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 32,
+            "text": "Assenyali l'opció correcta en relació amb les articulacions del peu:",
+            "respostes": {
+                "a": "L'articulació astràgal-calcani-navicular és una articulació de tipus troclear",
+                "b": "El lligament calcani navicular plantar sosté el cap del calcani",
+                "c": "El lligament bifurcat uneix el cuboides, calcani i astràgal",
+                "d": "L'articulació calcani cuboide és de tipus en “silla de montar”"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 33,
+            "text": "¿Quin cap del bíceps femoral s'origina en la línia aspra del fèmur?",
+            "respostes": {
+                "a": "Tots dos caps",
+                "b": "Cap mitjà",
+                "c": "Cap llarg",
+                "d": "Cap curt"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 34,
+            "text": "En relació amb els ossos de la mà, assenyali l'opció correcta:",
+            "respostes": {
+                "a": "En la fila distal en direcció radiocubital : os gran, os ganchoso, trapezi, trapezoide.",
+                "b": "En la fila distal en direcció radiocubital : escafoides, semilunar, piramidal, pisiforme.",
+                "c": "En la fila proximal en direcció radiocubital trobem l'escafoides, pisiforme, piramidal, semilunar",
+                "d": "En la fila proximal en direcció radiocubital trobem l'escafoides, semilunar, piramidal, pisiforme"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 35,
+            "text": "En relació amb la clavícula, assenyali l'opció correcta:",
+            "respostes": {
+                "a": "El solc del múscul subclavi es troba en la cara inferior",
+                "b": "En la cara superior trobem la línia trapezoidea",
+                "c": "Posseeix una cara anterior i una cara posterior",
+                "d": "En la cara anterior se situa el tubercle conoideo"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 36,
+            "text": "¿De quines zones recull la limfa el conducte toràcic?",
+            "respostes": {
+                "a": "Condueix la limfa del quadrant superior dret a l'angle venós dret",
+                "b": "Condueix la limfa dels ganglis inguinals al sistema venós toràcic",
+                "c": "Condueix la limfa del hemicuerpo inferior i quadrant superior esquerre a l'angle venós esquerre",
+                "d": "Condueix la limfa dels ganglis axil·lars al sistema venós profund"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 37,
+            "text": "¿Amb quin dels ossos següents no s'articula el primer cuneïforme?",
+            "respostes": {
+                "a": "Amb el 1r metatarsià",
+                "b": "Amb el segon cuneïforme",
+                "c": "Amb l'os navicular",
+                "d": "Amb l'os cuboides"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 38,
+            "text": "¿Quin múscul de l'espatlla és incapaç de realitzar abducció per si sol, requerint l'activació prèvia del múscul supraespinós per a iniciar el moviment?",
+            "respostes": {
+                "a": "Infraespinós",
+                "b": "Pectoral major",
+                "c": "Rodó major",
+                "d": "Deltoide"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 39,
+            "text": "En relació amb el diafragma, assenyali l'opció correcta",
+            "respostes": {
+                "a": "El lligament arquejat lateral forma l'arc del psoes major.",
+                "b": "El hiat aòrtic està format pel lligament arquejat mitjà",
+                "c": "El foramen de la vena cava es forma per la unió dels pilars medials",
+                "d": "El lligament arquejat medial forma l'arc del quadrat lumbar"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 40,
+            "text": "En relació amb els eixos i plans de moviment, assenyali l'opció correcta:",
+            "respostes": {
+                "a": "L'eix transversal és perpendicular al sòl i es dirigeix de dalt a baix",
+                "b": "L'eix longitudinal és paral·lel al sòl i es dirigeix de davant cap enrere",
+                "c": "El pla sagital és un pla horitzontal que divideix el cos en anterior i posterior",
+                "d": "El pla transversal és un pla horitzontal que divideix al cos en part superior i inferior"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 41,
+            "text": "Assenyali l'opció incorrecta en relació amb el múscul flexor curt dels dits del peu:",
+            "respostes": {
+                "a": "S'origina en la tuberositat calcánea i aponeurosis plantar",
+                "b": "Realitza flexió plantar de l'articulació metatarsofalángica i IF proximal del 2n-5è dit.",
+                "c": "S'insereix en les falanges distals del 2n al 5è dit",
+                "d": "Està innervat pel nervi plantar medial"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 42,
+            "text": "¿Quin múscul de l'avantbraç és l'únic capaç de flexionar les articulacions interfalángicas distals dels dits 2n al 5è?",
+            "respostes": {
+                "a": "Flexor profund dels dits",
+                "b": "Extensor dels dits",
+                "c": "Flexor llarg del polze",
+                "d": "Flexor superficial dels dits"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 43,
+            "text": "¿Quina és la funció principal del foramen vertebral?",
+            "respostes": {
+                "a": "Connectar les costelles amb les vèrtebres",
+                "b": "Actuar com a lloc d'inserció de músculs i lligaments",
+                "c": "Permetre el pas dels nervis intercostals",
+                "d": "Allotjar la medul·la espinal i les seves arrels nervioses."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 44,
+            "text": "¿Quina és la inserció del múscul gluti mitjà?",
+            "respostes": {
+                "a": "Trocànter major",
+                "b": "Tracte iliotibial",
+                "c": "Trocànter menor",
+                "d": "Tuberositat glútia"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 45,
+            "text": "¿Quins músculs intercostals participen principalment en l'espiració?",
+            "respostes": {
+                "a": "Escalè mig",
+                "b": "Intercostals interns i íntims",
+                "c": "Intercostals externs.",
+                "d": "Escalè anterior"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 46,
+            "text": "¿On s'origina i s'insereix el lligament creuat posterior?",
+            "respostes": {
+                "a": "Àrea intercondílea anterior de la tíbia i paret medial de la fossa intercondílea del fèmur",
+                "b": "Àrea intercondílea posterior de la tíbia i paret medial de la fossa intercondílea del fèmur",
+                "c": "Àrea intercondílea anterior de la tíbia i paret lateral de la fossa intercondílea del fèmur",
+                "d": "Àrea intercondílea posterior de la tíbia i paret lateral de la fossa intercondílea del fèmur"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 47,
+            "text": "¿Quina funció principal té el lligament longitudinal posterior en la columna vertebral?",
+            "respostes": {
+                "a": "Limita la hiperflexión i prevé la protrusió del nucli pulposo.",
+                "b": "Estabilitza la unió entre el sacre i el ilion.",
+                "c": "Limita la hiperextensión de la columna",
+                "d": "Uneix les apòfisis espinoses adjacents"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 48,
+            "text": "¿Quin lligament connecta la banya posterior del menisc lateral amb el còndil medial del fèmur?",
+            "respostes": {
+                "a": "Lligament meniscofemoral posterior",
+                "b": "Lligament creuat posterior",
+                "c": "Lligament transvers del genoll",
+                "d": "Lligament col·lateral peroneal"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 49,
+            "text": "¿Quina estructura de la ròtula es relaciona amb els lligaments alars?",
+            "respostes": {
+                "a": "Bords intern i extern",
+                "b": "Cara articular",
+                "c": "Vèrtex",
+                "d": "Basi"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 50,
+            "text": "¿Quin lligament és responsable de sostenir el cap de l'astràgal i mantenir l'arc longitudinal medial del peu?",
+            "respostes": {
+                "a": "Lligament calcani-navicular plantar",
+                "b": "Lligament astràgal-calcani interossi",
+                "c": "Lligament calcani-cuboide plantar",
+                "d": "Lligament astràgal-peroneal anterior"
+            },
+            "correcta": "a",
+            "type": "multi"
+        }
+    ]
+}
