@@ -7,7 +7,7 @@ let totalPreguntas = 0;
 let preguntasInicial = 0;
 
 function cargarPreguntas(archivo) {
-  fetch(`anatomia/${archivo}`)
+  fetch(`${archivo}`)
     .then(response => response.json())
     .then(data => {
       //reset de variables si hemos abierto un archivo nuevo es que queremos empezar de 0
