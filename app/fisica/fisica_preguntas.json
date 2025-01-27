@@ -9,7 +9,7 @@
                 "c": "Una rotació interna disminuïda",
                 "d": "Una rotació externa augmentada"
             },
-            "correcta": "b",
+            "correcta": "c",
             "type": "multi"
         },
         {
@@ -309,7 +309,7 @@
                 "c": "el pendent de la recta que uneix dos punts és el valor de la velocitat mitjana en l'interval de temps considerat.",
                 "d": "l'àrea sota la corba entre dos instants de temps és l'acceleració mitjana del mòbil en l'interval de temps considerat."
             },
-            "correcta": "b",
+            "correcta": "c",
             "type": "multi"
         },
         {
