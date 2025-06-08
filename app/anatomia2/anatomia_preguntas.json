@@ -99,6 +99,272 @@
             "correcta": "b",
             "type": "multifoto",
             "img": "fotos/coliculo_superior.png"
+        },
+        {
+            "id": 9,
+            "text": "Assenyaleu l’opció correcta sobre l’anatomia del còlon:",
+            "respostes": {
+                "a": "El còlon descendent és menys dorsal que l’ascendent",
+                "b": "El còlon ascendent és molt mòbil gràcies al seu mesocòlon",
+                "c": "La flexura còlica dreta se situa més alta per la presència del lòbul hepàtic",
+                "d": "El còlon transvers és la porció més mòbil del còlon per la presència del mesocòlon"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 10,
+            "text": "Assenyaleu quina de les següents afirmacions sobre els cordons posteriors (dorsals) de la medul·la espinal és correcta.",
+            "respostes": {
+                "a": "Els cordons posteriors porten informació del costat contralateral del cos",
+                "b": "El fascicle cuneïforme condueix informació des del membre inferior",
+                "c": "Els cordons posteriors condueixen informació tàctil fina i propioceptiva",
+                "d": "El fascicle grácil està situat lateralment al cuneïforme"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 11,
+            "text": "Quina de les següents estructures deriva de les crestes neurals durant el desenvolupament embrionari?",
+            "respostes": {
+                "a": "Només la glia del sistema nerviós central.",
+                "b": "Exclusivament la part sensitiva del nervi espinal.",
+                "c": "La mèdula suprarenal i la glia perifèrica",
+                "d": "Només els ganglis autònoms simpàtics"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 12,
+            "text": "Com es descriu l’epiteli respiratori?",
+            "respostes": {
+                "a": "Epiteli pseudostratificat cilíndric ciliat amb cèl·lules caliciformes",
+                "b": "Epiteli pla estratificat no queratinitzat amb glàndules seroses",
+                "c": "Epiteli cilíndric simple amb microvellositats abundants",
+                "d": "Epiteli cúbic estratificat amb cilis i múscul llis associat"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 13,
+            "text": "Quina de les següents afirmacions sobre l’os esfenoide és correcta?",
+            "respostes": {
+                "a": "La silla turca allotja el quiasma òptic",
+                "b": "S’articula exclusivament amb ossos del neurocrani",
+                "c": "El foramen rodó permet el pas del nervi maxil·lar",
+                "d": "Les ales menors formen el sòl de la fossa cranial posterior"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 14,
+            "text": "Quin tipus de fascicle cerebral connecta àrees de l’escorça dins d’un mateix hemisferi cerebral?",
+            "respostes": {
+                "a": "Fascicle de projecció",
+                "b": "Fascicle d’associació",
+                "c": "Fascicle corticotalàmic",
+                "d": "Fascicle comissural"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 15,
+            "text": "Quina de les següents estructures està implicada en la separació dels hemisferis cerebrals?",
+            "respostes": {
+                "a": "La tenda del cerebel",
+                "b": "La falx del cervell",
+                "c": "L’aracnoide",
+                "d": "La piamare"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 16,
+            "text": "Indiqueu quina afirmació és correcta en relació amb les terminacions nervioses aferents del múscul esquelètic",
+            "respostes": {
+                "a": "Els òrgans tendinosos de Golgi detecten l’estirament suau del múscul i s’associen amb fibres tipus II.",
+                "b": "Les terminacions anuloespirals es troben als tendons i transmeten la informació mitjançant fibres tipus Ib.",
+                "c": "Les fibres intrafusals del fus muscular inclouen fibres en bossa nuclear i en cadena nuclear.",
+                "d": "Els fusos musculars es troben exclusivament als músculs posturals i no intervenen en el moviment fi."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 17,
+            "text": "Que lligament uneix l'os temporal amb l'os mandibular?",
+            "respostes": {
+                "a": "Lligament esfenomandibular",
+                "b": "Lligament temporomandibular",
+                "c": "Lligament pterigoespinoso",
+                "d": "Lligament estilomandibular"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 18,
+            "text": "Que lligament uneix l'os temporal amb l'os mandibular?",
+            "respostes": {
+                "a": "Múscul Pterigoideo lateral",
+                "b": "Múscul masétero",
+                "c": "Múscul cigomático major",
+                "d": "Múscul cigomático menor"
+            },
+            "correcta": "b",
+            "type": "multifoto",
+            "img": "fotos/musculo_masetero.png"
+        },
+        {
+            "id": 19,
+            "text": "Quina de les següents afirmacions descriu correctament una diferència funcional entre les neurones i les cèl·lules de la neuroglia?",
+            "respostes": {
+                "a": "La neuroglia s'encarrega exclusivament del transport axonal en les neurones.",
+                "b": "Ambdues estructures generen potencials d'acció, però la neuroglia ho fa a menor velocitat",
+                "c": "Les neurones generen i transmeten impulsos elèctrics, mentre que la neuroglia proporciona suport i nutrició.",
+                "d": "Les neurones formen la barrera hematoencefàlica, mentre que la neuroglia només manté la homeòstasi."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 20,
+            "text": "Quin dels següents està considerat un nucli dels gànglis basals?",
+            "respostes": {
+                "a": "Nucli caudat",
+                "b": "Tàlem",
+                "c": "Amígdala",
+                "d": "Nucli vermell"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 21,
+            "text": "Identifiqui el múscul de la imatge",
+            "respostes": {
+                "a": "Recte posterior major del cap",
+                "b": "Oblic superior del cap",
+                "c": "Oblic inferior del cap",
+                "d": "Recte posterior menor del cap"
+            },
+            "correcta": "c",
+            "type": "multifoto",
+            "img": "fotos/musculo_cabeza.png"
+        },
+        {
+            "id": 22,
+            "text": "Assenyaleu l’opció correcta en relació amb els nervis cranials.",
+            "respostes": {
+                "a": "L’origen real correspon als nuclis neuronals que generen o reben la informació",
+                "b": "L’origen real és el punt on el nervi emergeix del tronc de l’encèfal",
+                "c": "L’origen aparent és on es troben els nuclis del nervi al sistema nerviós central",
+                "d": "Els nervis cranials no tenen origen real ni aparent"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 23,
+            "text": "Assenyaleu l’opció correcta sobre la posició del pàncrees:",
+            "respostes": {
+                "a": "El cos del pàncrees creua els cossos vertebrals L2-L3",
+                "b": "El pàncrees és un òrgan curt i vertical situat al quadrant inferior dret",
+                "c": "El cap del pàncrees es projecta cap a l’hipocondri esquerre",
+                "d": "La cua pancreàtica es troba sempre al centre de l’epigastri"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 24,
+            "text": "Assenyaleu quina de les següents afirmacions sobre les arrels nervioses de la medul·la espinal és correcta.",
+            "respostes": {
+                "a": "Les arrels posteriors contenen neurones motores que controlen el múscul esquelètic",
+                "b": "Els cossos cel·lulars de les neurones aferents es troben en la substància grisa medul·lar",
+                "c": "Tant les arrels anteriors com les posteriors només transmeten informació sensitiva",
+                "d": "Les arrels anteriors porten fibres eferents procedents de la substància grisa medul·lar"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 25,
+            "text": "Assenyaleu l’opció correcta sobre els segments pulmonars:",
+            "respostes": {
+                "a": "Els segments pulmonars estan clarament delimitats i visibles a la superfície del pulmó",
+                "b": "Cada segment comparteix bronqui i artèria pulmonar amb altres segments adjacents",
+                "c": "El pulmó dret té 10 segments, mentre que el pulmó esquerre sol tenir-ne 9",
+                "d": "El segment 7 és el més gran i present a tots dos pulmons"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 26,
+            "text": "Quin dels següents enunciats descriu correctament una part del sistema ventricular del cervell?",
+            "respostes": {
+                "a": "L’aqüeducte mesencefàlic connecta el tercer ventricle amb el quart ventricle.",
+                "b": "El ventricle lateral es comunica amb el tercer ventricle a través de l’aqüeducte mesencefàlic",
+                "c": "El forat interventricular connecta el quart ventricle amb l’espai subaracnoideu",
+                "d": "El tercer ventricle es troba entre el cerebel i la medul·la oblongada."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 27,
+            "text": "Quin dels següents solcs separa el lòbul frontal del lòbul parietal?",
+            "respostes": {
+                "a": "Solc central (de Rolando)",
+                "b": "Solc parietooccipital",
+                "c": "Solc lateral (de Silvi)",
+                "d": "Solc calcarí"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 28,
+            "text": "Quina de les següents afirmacions sobre el tàlem és correcta?",
+            "respostes": {
+                "a": "El tàlem transforma tota sensació en una percepció conscient sense participació cortical",
+                "b": "Les vies motores descendents passen sempre pel tàlem",
+                "c": "El tàlem només participa en la funció motora i no en la sensitiva",
+                "d": "Les principals vies sensitives fan sinapsi en el tàlem abans d’arribar a l’escorça"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 29,
+            "text": "Indiqueu l’opció correcta en relació amb la localització de les vàlvules cardíaques.",
+            "respostes": {
+                "a": "La vàlvula mitral es troba entre l’aurícula esquerra i el ventricle esquerre.",
+                "b": "La vàlvula mitral comunica l’aurícula dreta amb el ventricle dret.",
+                "c": "La vàlvula tricúspide es troba entre l’aurícula esquerra i el ventricle esquerre.",
+                "d": "La vàlvula aòrtica regula el flux entre el ventricle dret i l’artèria pulmonar"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 30,
+            "text": "Indiqueu l’opció incorrecta sobre la via visual des de la retina fins a la còrtex visual.",
+            "respostes": {
+                "a": "Els axons de la porció temporal de la retina passen al costat oposat en el quiasma òptic.",
+                "b": "Els tractes òptics es dirigeixen cap al cos geniculat lateral del tàlem.",
+                "c": "Les radiacions òptiques connecten el tàlem amb la còrtex visual primària del lòbul occipital.",
+                "d": "Els axons de la porció nasal de la retina es decussen al quiasma òptic per unir-se al tracte òptic contralateral."
+            },
+            "correcta": "a",
+            "type": "multi"
         }
     ]
 }
