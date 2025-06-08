@@ -1,0 +1,17 @@
+{
+    "preguntes": [
+        {
+            "id": 1,
+            "text": "¿Quina estructura assenyala la fletxa a la vèrtebra C4?",
+            "respostes": {
+                "a": "Pedicle",
+                "b": "Apòfisi articular",
+                "c": "Apòfisi unciforme",
+                "d": "Tubercle anterior"
+            },
+            "correcta": "c",
+            "type": "multifoto",
+            "img": "fotos/vertebra_c4.png"
+        }
+    ]
+}
