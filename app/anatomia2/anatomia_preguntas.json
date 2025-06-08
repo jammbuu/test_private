@@ -60,7 +60,45 @@
                 "d": "Pilor"
             },
             "correcta": "b",
+            "type": "multifoto",
+            "img": "fotos/estructura_estomago.png"
+        },
+        {
+            "id": 6,
+            "text": "Quina de les següents afirmacions sobre l’artèria caròtida interna és correcta?",
+            "respostes": {
+                "a": "Entra al crani a través del conducte carotidi i no dóna branques extracranials",
+                "b": "Irriga principalment les estructures de la cara i el cuir cabellut",
+                "c": "Es divideix en les artèries maxil·lar i temporal superficial",
+                "d": "Emmet branques al coll que irriguen la glàndula tiroide i la laringe"
+            },
+            "correcta": "a",
             "type": "multi"
+        },
+        {
+            "id": 7,
+            "text": "Assenyaleu quina de les següents afirmacions sobre les cèl·lules de Purkinje és correcta.",
+            "respostes": {
+                "a": "Les cèl·lules de Purkinje es troben en la capa granulosa interna",
+                "b": "Els axons de les cèl·lules de Purkinje són els únics que surten de la còrtex cerebel·losa",
+                "c": "Les dendrites de les cèl·lules de Purkinje es dirigeixen cap a la capa granulosa",
+                "d": "Les cèl·lules de Purkinje tenen axons que abandonen el cervell per formar els nervis espinals"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 8,
+            "text": "Assenyaleu quina estructura indica la fletxa",
+            "respostes": {
+                "a": "Peduncle cerebel·lós superio",
+                "b": "Colícul superior del mesencèfal",
+                "c": "Substància negra",
+                "d": "Oliva bulbar"
+            },
+            "correcta": "b",
+            "type": "multifoto",
+            "img": "fotos/coliculo_superior.png"
         }
     ]
 }
