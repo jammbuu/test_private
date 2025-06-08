@@ -7,7 +7,7 @@ let totalPreguntas = 0;
 let preguntasInicial = 0;
 
 function cargarPreguntas(archivo) {
-  fetch(`fisica/${archivo}`)
+  fetch(`${archivo}`)
     .then(response => response.json())
     .then(data => {
       //reset de variables si hemos abierto un archivo nuevo es que queremos empezar de 0
@@ -40,7 +40,7 @@ function cargarPreguntas(archivo) {
 
 // Llamar a cargarPreguntas con el parcial por defecto al cargar la página
 window.onload = () => {
-    cargarPreguntas('fisica_preguntas.json'); // o el archivo que prefieras como predeterminado
+    cargarPreguntas('bioestadistica_preguntas.json'); // o el archivo que prefieras como predeterminado
 };
 
 function mostrarPregunta() {
@@ -74,7 +74,6 @@ function mostrarPregunta() {
   document.getElementById('pregunta').innerText = preguntaActual.text;
   let opcionesDiv = document.getElementById('opciones');
   opcionesDiv.innerHTML = '';
-
   let imagenDiv = document.getElementById('imagenPregunta');
   imagenDiv.innerHTML = '';
 

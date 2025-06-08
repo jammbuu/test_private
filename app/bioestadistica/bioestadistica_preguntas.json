@@ -1,0 +1,606 @@
+{
+    "preguntes": [
+        {
+            "id": 1,
+            "text": "Quin conjunt d’estudis correspon estrictament a estudis de tipus experimental?",
+            "respostes": {
+                "a": "Assaigs clínics no controlats, estudis transversals, assaigs de camp, cohorts.",
+                "b": "Casos clínics, assaigs clínics aleatoritzats i controlats, estudis transversals, estudis ecològics.",
+                "c": "Estudis transversals, assaigs comunitaris d'intervenció, casos i controls, assaigs clínics no controlats.",
+                "d": "Assaigs de camp, assaigs clínics no controlats, estudis quasi-experimentals, assaigs clínics aleatoritzats i controlats."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 2,
+            "text": "Quin és el millor disseny per portar a terme una investigació per resoldre “l’associació asbest i càncer de pulmó”, tenint en compte que la mostra seleccionada està composta per algunes persones sanes i altres que ja han desenvolupat la malaltia, i que és freqüent l’exposició a l’asbest?",
+            "respostes": {
+                "a": "Estudi de Cohort.",
+                "b": "Estudi de Casos i Controls.",
+                "c": "Estudi Transversal.",
+                "d": "Sèrie de casos."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 3,
+            "text": "Quina de les següents afirmacions al voltant de les “hipòtesis” no és correcte?",
+            "respostes": {
+                "a": "Una hipòtesi és una conjectura, una possible resposta a una pregunta d'investigació.",
+                "b": "És habitual que es proposin varies hipòtesis alternatives en relació a una pregunta científica.",
+                "c": "Proposar una hipòtesi implica prendre-la com a veritable, no com a una possibilitat oberta.",
+                "d": "Una hipòtesi serà refutada si es demostra que no es compatible amb l’evidència empírica disponible."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 4,
+            "text": "Amb relació a la Medicina Basada en l’Evidència (MBE), quina afirmació és la correcta?",
+            "respostes": {
+                "a": "é a veure amb la utilització conscient, explícita i amb judici de la millor evidència científica disponible per prendre decisions que afavoreixin al pacient i al seu entorn.",
+                "b": "Té a veure amb la utilització inconscient i explícita de qualsevol evidència científica disponible per prendre decisions clíniques ràpides.",
+                "c": "Té a veure amb la utilització de les pràctiques més tradicionals (les que sempre s'han fet servir) en la presa de decisions clíniques.",
+                "d": "Té a veure amb la utilització conscient de la informació científica divulgada pels mitjans de comunicació i les xarxes socials."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 5,
+            "text": "La terminologia mèdica és...",
+            "respostes": {
+                "a": "Local i precisa.",
+                "b": "Concisa, precisa i internacional",
+                "c": "Concisa però no precisa.",
+                "d": "Tancada, precisa i local."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 6,
+            "text": "Quina resposta correspon estrictament a sufixos mèdics?",
+            "respostes": {
+                "a": "Quirúrgics, adjectivals, de qualitat, semiològics.",
+                "b": "Diagnòstics, quirúrgics, diminutius, de color.",
+                "c": "De direcció, de quantitat, de nombre i mesura, de posició",
+                "d": "Adjectivals, Substantivals, Diminutius, Semiològics, Diagnòstics i Quirúrgics."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 7,
+            "text": "No és una avantatge dels estudi de Cohorts que...",
+            "respostes": {
+                "a": "En ser un estudi de seguiment, permeten un millor control dels biaixos.",
+                "b": "Poden avaluar els efectes de l'exposició a un factor de risc sobre l'aparició de varies malalties.",
+                "c": "Solen ser barats perquè no triguen molt i la mida de la mostra es petita.",
+                "d": "Permeten establir la incidència d’una malaltia."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 8,
+            "text": "Es vol determinar l’associació entre l’ús d’ACOs (anticoagulants) i l’aparició de fenòmens tromboembòlics en una mostra on tots els individus són sans, mitjançant el “seguiment de dones que prenen ACOs vsdones que NO en prenen”. Quin és el millor tipus de disseny experimental per a desenvolupar la recerca?",
+            "respostes": {
+                "a": "Estudi de Cohort.",
+                "b": "Estudi de Casos i Controls.",
+                "c": "Assaigs clínics aleatoritzats i controlats.",
+                "d": "Estudis de camp no controlats."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 9,
+            "text": "Hematuria significa...",
+            "respostes": {
+                "a": "Estancament de la sang.",
+                "b": "Orina amb excés d’urea.",
+                "c": "Presència de sang a l’orina.",
+                "d": "Excessiva quantitat d’orina."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 10,
+            "text": "Es pretén mesurar els canvis en quatre efectes secundaris relacionats amb la quimioteràpia (baixa energia, estrès, nàusees i dolor), immediatament després de cada sessió d'exercici dins de la primera setmanadesprés del tractament amb quimioteràpia de trenta-vuit pacients amb càncer de pit, conformant aleatòriament dos grups, un de intervenció i un de control. Quin tipus d’ estudi és aquest?",
+            "respostes": {
+                "a": "Assaig de camp no controlat.",
+                "b": "Assaig clínic no controlat.",
+                "c": "Assaig clínic aleatoritzat i controlat (RCT).",
+                "d": "Estudi quasi-experimental"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 11,
+            "text": "Quina resposta correspon als estudis amb nivell d’evidència baix?",
+            "respostes": {
+                "a": "Guies de pràctica clínica, Meta-anàlisis, Revisions sistemàtiques, Assaigs controlats i aleatoritzats.",
+                "b": "Assaigs controlats i aleatoritzats, Casos i controls, Sèries i reports de casos.",
+                "c": "Reports i Sèries de casos, Revisions narratives, Opinions d’experts i Editorials.",
+                "d": "Meta-anàlisis, Revisions sistemàtiques, Revisions narratives, Opinions d’experts."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 12,
+            "text": "A quin tipus d’estudi corresponen els assaigs clínics en els que l’assignació de la mostra al grup d’intervenció i al grup control NO es realitza de forma aleatòria?",
+            "respostes": {
+                "a": "Estudis de Casos i Controls.",
+                "b": "Estudis observacionals descriptius",
+                "c": "Estudis quasi-experimentals.",
+                "d": "Experimentals sense grup de comparació."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 13,
+            "text": "Per acceptar socialment un fet com a tal, cal que sigui...",
+            "respostes": {
+                "a": "Que sigui una creença intersubjectiva i sigui irrepetible.",
+                "b": "Que sigui un fenomen intersubjectiu i sigui repetible.",
+                "c": "Que sigui un fenomen subjectiu i sigui irrepetible.",
+                "d": "Cap de les anteriors."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 14,
+            "text": "Un article generat a partir d’un estudi en el qual s’han recopilat i analitzat dades alienes (recollides d’altres estudis i assajos), és un article...",
+            "respostes": {
+                "a": "Primari o original.",
+                "b": "Secundari o de revisió.",
+                "c": "Qualitatiu.",
+                "d": "De Fase I."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 15,
+            "text": "Quina és la definició correcta de l’assajo clínic?",
+            "respostes": {
+                "a": "És un estudi observacional per establir associacions causa-efecte.",
+                "b": "És un experiment planificat, l’objectiu del qual és avaluar l’eficàcia d'intervencions mèdiques o quirúrgiques.",
+                "c": "És un experiment que a l’atzar i sense protocol, avalua la pràctica mèdica o quirúrgica.",
+                "d": "Cap de les anteriors."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 16,
+            "text": "Es vol determinar l'associació entre l’ús d’ACOs (anticoagulants) i l’aparició de fenòmens tromboembòlics, per a la qual cal la “determinació dels casos de tromboembolisme en una població en un determinatmoment”. Quin tipus de estudi hem de realitzar per determinar-ho?",
+            "respostes": {
+                "a": "Estudi de Casos i Controls.",
+                "b": "Estudi de Cohort.",
+                "c": "Estudio Transversal o de prevalença.",
+                "d": "Sèrie de casos"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 17,
+            "text": "Amb relació a la fisioteràpia, una d’aquestes afirmacions NO és correcta.",
+            "respostes": {
+                "a": "És una professió, és a dir un conjunt de tasques complexes la realització de les quals exigeix, més que operacions o habilitats rutinàries, l'art d'aplicar principis i conceptes.",
+                "b": "És una disciplina propera al coneixement comú, no sistemàtic i episòdic, i que es basa, entre altres coses, en la subjectivitat, el raonament pràctic, en plantejaments descriptius i en el pensamentacrític.",
+                "c": "Es troba dins de les ciències fàctiques o reals perquè es refereix a fets que passen al món i ha d'apel•lar a l'experiència per establir les seves premisses.",
+                "d": "Es sustenta en coneixements aportats tant per la ciència pura, com per la ciència aplicada i una part tècnica."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 18,
+            "text": "Amb relació a l’experimentació, quina afirmació és la correcta?",
+            "respostes": {
+                "a": "En l’experimentació són essencials l’objectivitat i la replicabilitat.",
+                "b": "En l'experimentació, no és necessària l’adaptació de les idees al fets.",
+                "c": "En la recerca experimental només cal l’anàlisi de dades alienes (de altres investigadors).",
+                "d": "Totes les afirmacions anteriors són correctes."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 19,
+            "text": "Quin és el nucli o eix del mètode científic modern?",
+            "respostes": {
+                "a": "Elaborar hipòtesis d’aspectes de la natura a partir de creences o especulacions.",
+                "b": "Elaborar explicacions dels diferents aspectes de la natura a partir de fets o de dades.",
+                "c": "Elaborar coneixement no tècnic de la natura a partir de dades subjectives.",
+                "d": "Assolir acords unànimes i immutables sobre aspectes del món natural."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 20,
+            "text": "Quin tipus de raonament fa servir la particularització, es a dir, part de categories generals per a fer afirmacions sobre casos particulars?",
+            "respostes": {
+                "a": "Mètode Deductiu.",
+                "b": "Mètodes Episòdic.",
+                "c": "Mètode Inductiu.",
+                "d": "Mètode simbòlic"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 21,
+            "text": "A la llum del mètode lògic deductiu és correcte dir que...",
+            "respostes": {
+                "a": "De dues premisses generals (universals) que siguin certes sempre se’n pot treure sempre una conclusió parcial.",
+                "b": "De dos premisses particulars universals se'n pot treure una conclusió verdadera.",
+                "c": "De dues premisses particulars, encara que siguin certes, no se'n pot inferir una conclusió irrefutable.",
+                "d": "D'una premissa general (universal) i una premissa particular sempre se'n pot treure una conclusió verdadera."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 22,
+            "text": "Quan es fan proposicions explicatives generals a partir de l'anàlisi de les dades observades o obtingudes per l'investigador en experiments, es diu que hem aplicat el mètode de raonament...",
+            "respostes": {
+                "a": "Mètode Deductiu.",
+                "b": "Mètode específic aleatoritzat.",
+                "c": "Mètode Inductiu.",
+                "d": "Mètode Qualitatiu."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 23,
+            "text": "Saber com es sent una persona amb dolor crònic, les seves percepcions subjectives, sovint en el seu entorno natural, examinant experiències, creences, actituds i comportaments subjectius, correspon a unapregunta d’investigació...",
+            "respostes": {
+                "a": "Clínica amb intervenció.",
+                "b": "Experimental.",
+                "c": "Qualitativa.",
+                "d": "Quantitativa."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 24,
+            "text": "Quina resposta correspon estrictament a les principals tècniques de la investigació Qualitativa?",
+            "respostes": {
+                "a": "Investigació observacional, Casos i controls, Etnografia, Estudis de prevalença.",
+                "b": "Sèries de casos, Grups focals, Estudis observacionals analítics, Estudis Ecològics.",
+                "c": "Entrevistes en profunditat, Grups focals, Investigació observacional, Casos pràctics i Estudis de cas.",
+                "d": "Estudis experimentals de camp, Estudis de Teoria fonamentada, Entrevistes en profunditat, Estudis no controlats."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 25,
+            "text": "Quin és el principal interès de la Investigació Qualitativa?",
+            "respostes": {
+                "a": "Assolir la comprensió de temes complexes de salut mitjançant el coneixement de les opinions i motivacions dels pacients.",
+                "b": "Obtenir dades numèriques que permetin l'anàlisi estadístic, i extreure conclusions estructurades generalitzables i objectives.",
+                "c": "Recopilar i analitzar sistemàticament, sense espai per a la flexibilitat, dades mesurables, obtingudes a partir d'estudis experimentals.",
+                "d": "Mesurar variables, relacions i patrons dins d’un conjunt de dades obtingudes mitjançant un assaig clínic de qualitat."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 26,
+            "text": "Per què és important el Teorema de Bayes en la interpretació de resultats positius en una prova diagnòstica?",
+            "respostes": {
+                "a": "Perquè permet calcular la sensibilitat de la prova a partir del nombre de pacients positius.",
+                "b": "Perquè permet eliminar la necessitat de conèixer la prevalença de la malaltia.",
+                "c": "Perquè indica la probabilitat de rebre un resultat negatiu quan el pacient no està malalt.",
+                "d": "Perquè ens diu la probabilitat que un pacient realment estigui malalt si la prova ha donat positiu."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 27,
+            "text": "En un hospital, se sap que la probabilitat que un pacient ingressat presenti una reacció adversa a un medicament és del 20%. Si es tracta una mostra de 10 pacients, quina de les següents afirmacions sobre elmodel binomial és correcta?",
+            "respostes": {
+                "a": "El nombre d'assajos és 10, ja que la mostra és de 10 pacients.",
+                "b": "La probabilitat que exactament 2 pacients tinguin una reacció adversa es pot calcular amb la fórmula binomial.",
+                "c": "La probabilitat que com a màxim 2 pacients tinguin una reacció adversa correspon a una probabilitat acumulada.",
+                "d": "Totes les anteriors són correctes."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 28,
+            "text": "Quina de les següents opcions descriu amb més precisió el paper de la codificació en l’anàlisi qualitativa?",
+            "respostes": {
+                "a": "És una tècnica que tradueix els resultats qualitatius en percentatges per a l’anàlisi estadística.",
+                "b": "És un procés mecànic de classificació de dades sense necessitat d’interpretació.",
+                "c": "És una eina que permet transformar dades textuals en unitats significatives mitjançant l’assignació d’etiquetes que representen patrons o conceptes clau.",
+                "d": "És una manera d’agrupar participants segons les seves respostes per aplicar proves paramètriques."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 29,
+            "text": "En un estudi sobre l’estatura mitjana d’adults, es va calcular un interval de confiança del 95% de 167 a 173 cm. Quina de les següents afirmacions és correcta?",
+            "respostes": {
+                "a": "L’estimació puntual de l’estatura mitjana és de 173 cm i el marge d’error és de 6 cm.",
+                "b": "El 95% de la població té una estatura entre 167 i 173 cm.",
+                "c": "Podem afirmar amb un 95% de confiança que l’estatura mitjana real de la població està entre 167 i 173 cm.",
+                "d": "Com que l’interval és de només 6 cm, el marge d’error és molt gran."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 30,
+            "text": "Quina de les següents afirmacions descriu millor una difèrencia clau entre l'entrevista i la nota de camp?",
+            "respostes": {
+                "a": "L'entrevista i la nota de camp es basen exclusivament en l’observació directa.",
+                "b": "L’entrevista s’enfoca en el que el participant diu, mentre que la nota de camp s’enfoca en el que l’investigador percep.",
+                "c": "L’entrevista descriu el context, mentre que la nota de camp es basa en preguntes i respostes.",
+                "d": "Ambdues fonts tenen exactament el mateix objectiu i metodologia."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 31,
+            "text": "L’índex de massa corporal (IMC) en una població adulta segueix una distribució normal amb una mitjana de 25 kg/m² i una desviació estàndard de 3 kg/m². Quina de les següents afirmacions és correcta?",
+            "respostes": {
+                "a": "Els valors compresos entre 22 i 28 kg/m² són molt més probables que valors inferiors a 19 o superiors a 31.",
+                "b": "Un IMC de 25 kg/m² és menys probable que un IMC de 33 kg/m².",
+                "c": "Tots els valors d’IMC tenen la mateixa probabilitat en una distribució normal.",
+                "d": "Els valors extrems són tan probables com els centrals perquè la distribució és simètrica."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 32,
+            "text": "Si sabem que una variable segueix una distribució normal, podem afirmar que...",
+            "respostes": {
+                "a": "Podem conèixer el percentatge exacte d’individus que es troben entre -3 i +3 desviacions estàndard.",
+                "b": "El 50% dels valors es troben per sota o igual a la mitjana.",
+                "c": "Les afirmacions A i B són correctes.",
+                "d": "Cap de les alternatives anteriors és certa."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 33,
+            "text": "En el context de la teoria de la probabilitat què representa l'espai mostral?",
+            "respostes": {
+                "a": "El conjunt de tots els esdeveniments impossibles.",
+                "b": "El subconjunt dels esdeveniments més probables.",
+                "c": "El conjunt de tots els resultats possibles d'un experiment aleatori.",
+                "d": "El conjunt de resultats observats en una mostra estadística."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 34,
+            "text": "Una prova diagnòstica per detectar la lesió del lligament encreuat anterior té una sensibilitat del 85% i una especificitat del 90%. Si s’avaluen 100 pacients que realment no tenen la lesió, quants d’ells rebranun resultat fals positiu?",
+            "respostes": {
+                "a": "10",
+                "b": "15",
+                "c": "90",
+                "d": "85"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 35,
+            "text": "Si l'odds de tenir hipertensió arterial donat que s’és obès és de 0,2, podem afirmar:",
+            "respostes": {
+                "a": "La probabilitat que una persona obesa tingui hipertensió és del 20%.",
+                "b": "El risc relatiu de tenir hipertensió en persones obeses és de 0,2.",
+                "c": "El 80% de les persones obeses tenen hipertensió.",
+                "d": "Per cada persona obesa amb hipertensió, n’hi ha cinc d’obeses sense hipertensió."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 36,
+            "text": "En una central d’emergències es rep una mitjana de 4 trucades per hora.Quina de les següents afirmacions sobre el model de Poisson és correcta?",
+            "respostes": {
+                "a": "La probabilitat de rebre exactament 3 trucades en una hora es pot calcular amb la fórmula de Poisson.",
+                "b": "El valor esperat de la distribució de Poisson serà igual a la desviació típica.",
+                "c": "La probabilitat exacta de rebre 6 trucades no es pot calcular, per ser més gran a la mitjana.",
+                "d": "Totes les alternatives anteriors són correctes."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 37,
+            "text": "Si la incidència de marejos després del consum del medicament A és del 10%, i la incidència de nàusees amb el medicament B és del 20%, quina és la probabilitat d’experimentar ambdós efectes adversos siuna persona consumeix ambdós medicaments, assumint que els efectes són independents?",
+            "respostes": {
+                "a": "0.1",
+                "b": "0.2",
+                "c": "0.02",
+                "d": "0.3"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 38,
+            "text": "En una prova de detecció d’una malaltia, quin enunciat reflecteix correctament el significat de diferents valors de probabilitat?",
+            "respostes": {
+                "a": "Si la probabilitat que un pacient tingui la malaltia és 0,1, això significa que no la té.",
+                "b": "Una probabilitat de 0 vol dir que és impossible que el pacient tingui la malaltia.",
+                "c": "Una probabilitat de 0,95 indica que el pacient té la malaltia amb total seguretat.",
+                "d": "Una probabilitat de 1 indica només que el risc és molt alt, però no total."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 39,
+            "text": "L'estadística descriptiva...",
+            "respostes": {
+                "a": "Realitza contrast d'hipòtesis",
+                "b": "Representa les característiques d'un conjunt de dades",
+                "c": "Utilitza proves com la T de Student",
+                "d": "Totes les respostes són correctes"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 40,
+            "text": "En relació al concepte de mostra...",
+            "respostes": {
+                "a": "Es considera petita quan és inferior a 50",
+                "b": "Es tracta d'un subconjunt de la població",
+                "c": "Es defineix com la totalitat d'individus que es podrien analitzar per una variable",
+                "d": "Les respostes A i B són correctes"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 41,
+            "text": "El tipus de tractament seguit (conservador o quirúrgic) és una variable de tipus...",
+            "respostes": {
+                "a": "Quantitativa continua",
+                "b": "Qualitativa nominal politòmica",
+                "c": "Qualitativa nominal dicotòmica",
+                "d": "Qualitativa ordinal"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 42,
+            "text": "La variança és una mesura de...",
+            "respostes": {
+                "a": "Tipus central",
+                "b": "Dispersió",
+                "c": "Posició",
+                "d": "Forma"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 43,
+            "text": "Quina és la mediana de la taula següent?",
+            "respostes": {
+                "a": "21",
+                "b": "22",
+                "c": "23",
+                "d": "24"
+            },
+            "correcta": "c",
+            "type": "multifoto",
+            "img": "fotos/tabla_mediana.png"
+        },
+        {
+            "id": 44,
+            "text": "Quin seria el C27 de la taula següent?",
+            "respostes": {
+                "a": "20",
+                "b": "21",
+                "c": "22",
+                "d": "23"
+            },
+            "correcta": "b",
+            "type": "multifoto",
+            "img": "fotos/tabla_c27.png"
+        },
+        {
+            "id": 45,
+            "text": "Respecte a la desviació estàndard, senyala la resposta INCORRECTA:",
+            "respostes": {
+                "a": "Una desviació estàndard petita implica que les dades estan molt disperses",
+                "b": "És una mesura de dispersió",
+                "c": "Es pot calcular fent l'arrel quadrada de la variança",
+                "d": "S'entén com la distància promig dels elements a la mitjana de distribució"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 46,
+            "text": "Quin dels següents enunciats és cert?",
+            "respostes": {
+                "a": "En una asimetria POSITIVA la mitjana aritmètica és superior a la mediana.",
+                "b": "En una asimetria POSITIVA la mitjana aritmètica és inferior a la mediana.",
+                "c": "En una asimetria NEGATIVA la mitjana aritmètica és superior a la mediana.",
+                "d": "En una asimetria NEGATIVA la moda és inferior a la mediana."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 47,
+            "text": "En relació al diagrama de barres per a variables qualitatives...",
+            "respostes": {
+                "a": "Cal tenir en compte que és un dels gràfics més utilitzats per a la seva representació",
+                "b": "A l'eix OX apareixen les freqüències",
+                "c": "A l'eix OY apareixen les modalitats de la variable",
+                "d": "Totes les respostes són correctes"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 48,
+            "text": "La hipòtesi nul·la...",
+            "respostes": {
+                "a": "El pròposit generalment és demostrar que és falsa",
+                "b": "En principi defineix que hi ha diferències entre les variables analitzades",
+                "c": "Mai es considera provada en el sentit estricte",
+                "d": "Les respostes A i C són correctes"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 49,
+            "text": "Si volem analitzar el dolor (escala 0-10) en un grup pre i post intervenció, sabent que la distribució no és normal, escollirem la prova...",
+            "respostes": {
+                "a": "T de Student",
+                "b": "Wilcoxon",
+                "c": "Mann-Whitney",
+                "d": "Pearson"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 50,
+            "text": "La prova T de Student...",
+            "respostes": {
+                "a": "Serveix per a l'anàlisi de dues variables categòriques",
+                "b": "El seu estadístic és W",
+                "c": "Si el seu estadístic té valors propers a 0 indica que els grups són similars",
+                "d": "No necessita el p-valor per a determinar que els resultats són estadísticament significatius"
+            },
+            "correcta": "c",
+            "type": "multi"
+        }
+    ]
+}
