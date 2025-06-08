@@ -12,6 +12,55 @@
             "correcta": "c",
             "type": "multifoto",
             "img": "fotos/vertebra_c4.png"
+        },
+        {
+            "id": 2,
+            "text": "On es localitza l’àrea sensitiva primària (àrees 3, 2 i 1 de Brodmann)?",
+            "respostes": {
+                "a": "En el gir temporal superior",
+                "b": "En el gir postcentral",
+                "c": "En el gir precentral",
+                "d": "En el còrtex cingulat"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 3,
+            "text": "Quina estructura del polígon de Willis està marcada amb la fletxa?",
+            "respostes": {
+                "a": "Artèria cerebral anterior",
+                "b": "Artèria cerebral mitjana",
+                "c": "Artèria comunicant posterior",
+                "d": "Artèria basilar"
+            },
+            "correcta": "c",
+            "type": "multifoto",
+            "img": "fotos/poligono_willis.png"
+        },
+        {
+            "id": 4,
+            "text": "Que tipus d'articulació és la atlantoaxoidea medial?",
+            "respostes": {
+                "a": "Artrodia",
+                "b": "Trocoide",
+                "c": "Símfisi",
+                "d": "Bicondílea"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 5,
+            "text": "Quina estructura de l’estómac assenyala la fletxa?",
+            "respostes": {
+                "a": "Cos de l’estómac",
+                "b": "Càrdies",
+                "c": "Fons gàstric",
+                "d": "Pilor"
+            },
+            "correcta": "b",
+            "type": "multi"
         }
     ]
 }
