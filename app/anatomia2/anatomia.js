@@ -77,7 +77,17 @@ function mostrarPregunta() {
   let imagenDiv = document.getElementById('imagenPregunta');
   imagenDiv.innerHTML = '';
 
-  if (preguntaActual.type === 'multi') {
+  if (preguntaActual.type === 'multifoto') {
+    if (preguntaActual.img) {
+      let imgElement = document.createElement('img');
+      imgElement.src = preguntaActual.img;
+      imgElement.alt = 'Imagen de la pregunta';
+      imgElement.classList.add('max-w-full', 'rounded', 'shadow-md', 'my-4');
+      imagenDiv.appendChild(imgElement);
+    }
+  }
+
+  if (preguntaActual.type === 'multi' || preguntaActual.type === 'multifoto') {
     // Convertir las respuestas a un array y barajarlo
     let respuestas = Object.entries(preguntaActual.respostes);
     mezclarArray(respuestas);
@@ -107,14 +117,6 @@ function mostrarPregunta() {
       }
     });
     opcionesDiv.appendChild(boton);
-  } else if (preguntaActual.type === 'multifoto'){
-      if (preguntaActual.img) {
-        let imgElement = document.createElement('img');
-        imgElement.src = preguntaActual.img;
-        imgElement.alt = 'Imagen de la pregunta';
-        imgElement.classList.add('max-w-full', 'rounded', 'shadow-md', 'my-4');
-        imagenDiv.appendChild(imgElement);
-      }
   }
 }
 
