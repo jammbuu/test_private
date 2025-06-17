@@ -1,0 +1,604 @@
+{
+    "preguntes": [
+        {
+            "id": 1,
+            "text": "Quina hormona actua directament sobre els túbuls renals per retenir sodi i augmentar el volum de líquids corporals?",
+            "respostes": {
+                "a": "Aldosterona.",
+                "b": "Prostaglandina E2.",
+                "c": "Eritropoetina.",
+                "d": "Hormona paratiroïdal (PTH)."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 2,
+            "text": "Un pacient de 55 anys amb hipertensió presenta signes de dany renal progressiu. Quina de les següents és una conseqüència fisiològica esperable per aquesta condició?",
+            "respostes": {
+                "a": "Augment de la taxa de filtració glomerular per activació de l'aldosterona.",
+                "b": "Engrossiment de la membrana basal glomerular que redueix la filtració.",
+                "c": "Reducció de la pressió arterial per pèrdua de volum urinari.",
+                "d": "Hiposecreció d'eritropoetina amb disminució del sodi sèric."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 3,
+            "text": "En relació amb l’equilibri àcid-base, quina funció específica realitza l’amoníac (NH₃) en el túbul renal?",
+            "respostes": {
+                "a": "Afavoreix l’alcalinització de l’orina i la reabsorció de bicarbonat.",
+                "b": "Es combina amb H⁺ per formar NH₄⁺, ajudant a l’excreció d’àcids.",
+                "c": "Neutralitza el bicarbonat en excés per mantenir l’acidosi metabòlica.",
+                "d": "Estimula la secreció de potassi en situacions d’alcalosi respiratòria."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 4,
+            "text": "Un pacient en estat de deshidratació severa presenta una osmolaritat plasmàtica elevada. Quina resposta fisiològica renal és esperable en aquest context?",
+            "respostes": {
+                "a": "Disminució de la secreció d’ADH i major excreció d’aigua.",
+                "b": "Secreció d’aldosterona per augmentar l’excreció de sodi.",
+                "c": "Inhibició del gradient osmòtic medul·lar per reduir la concentració urinària.",
+                "d": "Augment de l’alliberament d’ADH, incrementant la reabsorció d’aigua en el túbul col·lector."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 5,
+            "text": "Quina de les següents combinacions entre hormona i funció és correcta?",
+            "respostes": {
+                "a": "ADH – regula el sucre en sang.",
+                "b": "T3 i T4 – regulen la funció reproductiva.",
+                "c": "GH – estimula el creixement.",
+                "d": "Cortisol – regula la temperatura corporal."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 6,
+            "text": "Un pacient amb hipoglucèmia persistent presenta nivells elevats d’insulina. Quina seria l’acció fisiològica esperada d’aquesta hormona?",
+            "respostes": {
+                "a": "Disminuir els nivells de glucosa a la sang.",
+                "b": "Estimular la producció de glucosa al fetge.",
+                "c": "Augmentar la freqüència cardíaca.",
+                "d": "Augmentar els nivells de calci a la sang."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 7,
+            "text": "Respecte al paper de la somatostatina en l'equilibri metabòlic, quina de les següents afirmacions és correcta?",
+            "respostes": {
+                "a": "Estimula la secreció d’insulina quan els nivells de glucosa estan baixos.",
+                "b": "Inhibeix la secreció de glucagó i hormones digestives per evitar la hipoglucèmia.",
+                "c": "Actua com a regulador dual, inhibint insulina i glucagó per evitar extrems glucèmics.",
+                "d": "La seva acció principal és augmentar la motilitat gàstrica després de la ingesta d’aliments."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 8,
+            "text": "Un fisioterapeuta atén una pacient amb síndrome premenstrual (SPM) que fa referència a fatiga intensa i menor rendiment esportiu. Quina és la causa hormonal més probable d’aquests símptomes?",
+            "respostes": {
+                "a": "Disminució d’estrògens en fase fol·licular.",
+                "b": "Nivells elevats de progesterona en fase luteal.",
+                "c": "Pics d’insulina per hipoglucèmia.",
+                "d": "Dèficit de testosterona en l’ovulació."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 9,
+            "text": "Quina de les següents afirmacions descriu correctament una diferència funcional entre macròfags i neutròfils en la immunitat innata?",
+            "respostes": {
+                "a": "Tots dos participen només en la fase de memòria immunològica davant d’infeccions repetides.",
+                "b": "Els neutròfils actuen abans que els macròfags i tenen funció fagocítica però no secretora.",
+                "c": "Els macròfags presenten antígens i modulen la immunitat adaptativa; els neutròfils són més ràpids i destructius però de vida curta.",
+                "d": "Els macròfags i neutròfils tenen funcions idèntiques, però estan localitzats en diferents teixits."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 10,
+            "text": "Un fisioterapeuta tracta un pacient amb febre, fatiga i debilitat muscular després d'una infecció respiratòria. Quina complicació hauria d'anticipar en la fase de rehabilitació?",
+            "respostes": {
+                "a": "Hiperhidratació amb retenció d'electròlits.",
+                "b": "Hipertrofia muscular secundària a inflamació.",
+                "c": "Major capacitat aeròbica per activació del sistema immune.",
+                "d": "Disminució de la tolerància a l'exercici i risc de rampes per pèrdua hidroelectrolítica."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 11,
+            "text": "Quina característica distingeix les immunodeficiències primàries de les secundàries?",
+            "respostes": {
+                "a": "Són causades per mutacions genètiques que afecten el desenvolupament del sistema immune.",
+                "b": "S’originen per l’ús prolongat d’immunosupressors.",
+                "c": "Són més comunes en adults que en nens.",
+                "d": "Només afecten els limfòcits T, no els B."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 12,
+            "text": "Un pacient amb trasplantament renal presenta un retard en la cicatrització d’una ferida quirúrgica. Quina és la causa més probable segons la fisiologia immunològica?",
+            "respostes": {
+                "a": "Excés de limfòcits T CD8+.",
+                "b": "Immunosupressió induïda farmacològicament, que debilita la resposta immune.",
+                "c": "Augment en l’activitat fagocítica.",
+                "d": "Hipertròfia de la medul·la òssia secundària al greix."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 13,
+            "text": "En la prova del plec cutani, quin fenomen fisiològic explica un retorn retardat del plec a la seva forma original?",
+            "respostes": {
+                "a": "Augment de la pressió hidrostàtica capil·lar.",
+                "b": "Disminució de la matriu extracel·lular i augment de prostaglandines..",
+                "c": "Reducció de col·lagen tipus III i augment de la histamina.",
+                "d": "Disminució del contingut hídric intersticial i deteriorament de les fibres col·lagen-elastina."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 14,
+            "text": "Durant un dejuni prolongat, quin mecanisme permet que el cervell continuï funcionant després de l’esgotament del glucogen hepàtic?",
+            "respostes": {
+              "a": "Ús exclusiu de glucosa per activació pancreàtica.",
+              "b": "Captació d’àcids grassos lliures per les neurones.",
+              "c": "Oxidació directa d’aminoàcids en el sistema nerviós.",
+              "d": "Utilització de cossos cetònics derivats de l’oxidació de lípids."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 15,
+            "text": "En condicions normals, quin és el mecanisme fisiològic que permet redistribuir el flux sanguini en zones pulmonars amb hipoventilació?",
+            "respostes": {
+              "a": "Activació dels músculs accessoris de la inspiració.",
+              "b": "Vasoconstricció hipóxica que desvia sang cap a àrees millor ventilades.",
+              "c": "Augment de la freqüència respiratòria per elevar la pressió alveolar.",
+              "d": "Reducció del volum corrent per disminuir la perfusió local."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 16,
+            "text": "Una pacient post-mastectomia desenvolupa limfedema al braç dret. Quin és el fonament fisiològic que justifica la indicació de drenatge limfàtic manual?",
+            "respostes": {
+              "a": "Estimula la producció de limfa per augmentar la pressió hidrostàtica al braç afectat.",
+              "b": "Permet que la limfa acumulada es redirigeixi cap a ganglis limfàtics funcionals en altres regions.",
+              "c": "Redueix la síntesi de proteïnes plasmàtiques, disminuint així la pressió oncòtica intersticial.",
+              "d": "Impedeix la vasoconstricció local que agreuja l’estancament limfàtic."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 17,
+            "text": "Quina funció té la mobilitat visceral en la digestió i quina podria ser la conseqüència de la seva restricció?",
+            "respostes": {
+                "a": "Millora la circulació muscular sense influir en la digestió; la seva restricció afecta només la postura.",
+                "b": "Facilita el moviment dels òrgans per pressió negativa; la seva restricció causa hipotonía muscular.",
+                "c": "Permet el lliscament de les vísceres amb els canvis de pressió intraabdominal; la seva restricció pot alterar la motilitat i generar símptomes digestius.",
+                "d": "Afavoreix la secreció hormonal pancreàtica; la seva alteració genera hipoglucèmia."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 18,
+            "text": "Quin dels següents mecanismes explica com la hipertensió arterial sostinguda pot conduir a insuficiència renal crònica?",
+            "respostes": {
+                "a": "Increment del flux plasmàtic renal per dilatació de l’artèria renal.",
+                "b": "Estimulació del sistema nerviós parasimpàtic, que redueix la filtració.",
+                "c": "Dany progressiu als glomèruls per pressió i pèrdua del control autorregulador renal.",
+                "d": "Augment de la producció d’eritropoetina, que altera l’equilibri àcid-base."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 19,
+            "text": "Quina de les següents hormones és produïda per l’hipotàlem però emmagatzemada i alliberada des de la neurohipòfisi?",
+            "respostes": {
+                "a": "Tirotropina (TSH).",
+                "b": "Vasopresina (ADH).",
+                "c": "Prolactina (PRL).",
+                "d": "Corticotropina (ACTH)."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 20,
+            "text": "Un pacient diagnosticat amb síndrome de Cushing presenta hiperglucèmia, hipertensió i debilitat muscular. Quina alteració hormonal és més probable en aquest cas?",
+            "respostes": {
+                "a": "Hiperestimulació suprarenal per excés d’ACTH.",
+                "b": "Dèficit d’ACTH per hipofunció hipofisària.",
+                "c": "Excés d’aldosterona per estimulació renal directa.",
+                "d": "Inhibició de TSH per retroalimentació de cortisol."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 21,
+            "text": "Quin mecanisme explica la regulació de l’hormona paratiroïdal (PTH) davant de nivells elevats de calci en sang?",
+            "respostes": {
+                "a": "Activació d’osteoblasts per hipocalcèmia.",
+                "b": "Inhibició de receptors CaSR que augmenten la PTH.",
+                "c": "Activació de receptors sensors de calci que inhibeixen la liberació de PTH.",
+                "d": "Estimulació de la tiroide per alliberar calcitonina."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 22,
+            "text": "Un pacient amb fatiga, augment de pes, restrenyiment i sensibilitat al fred és diagnosticat d’hipotiroïdisme. Quin dels següents mecanismes fisiològics explica aquests símptomes?",
+            "respostes": {
+                "a": "Excés de T3 que inhibeix la síntesi de proteïnes mitocondrials.",
+                "b": "Dèficit de T3 i T4 que redueix la taxa metabòlica basal.",
+                "c": "Excés de TSH que estimula en excés la tiroide.",
+                "d": "Inhibició de l’hormona paratiroïdal que redueix el metabolisme."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 23,
+            "text": "Quin és l’efecte fisiològic més rellevant de nivells elevats de cortisol sobre el metabolisme del calci?",
+            "respostes": {
+                "a": "Estimulació de la síntesi de vitamina D activa.",
+                "b": "Disminució de la resorció òssia i augment de la densitat mineral.",
+                "c": "Reducció de l’absorció intestinal de calci i augment de l’excreció renal.",
+                "d": "Inhibició directa de la secreció de parathormona (PTH)."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 24,
+            "text": "Una pacient posmenopàusica consulta per dolor lumbar i antecedents de fractura vertebral recent. Se li diagnostica osteoporosi. Quin dels següents factors fisiològics explica el seu major risc d’aquesta condició?",
+            "respostes": {
+                "a": "Augment de la secreció de calcitonina que redueix la reabsorció òssia.",
+                "b": "Hipersecreció de PTH que inhibeix la mobilització de calci des de l’os.",
+                "c": "Deficiència de cortisol que incrementa l’activitat osteoclàstica.",
+                "d": "Disminució dels nivells d’estrògens, que facilita la pèrdua de massa òssia."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 25,
+            "text": "Quina de les següents afirmacions reflecteix amb més precisió el concepte d’homeòstasi en fisiologia?",
+            "respostes": {
+                "a": "És un estat estàtic d’equilibri en el cos que es manté sense necessitat d’intervenció.",
+                "b": "És el procés mitjançant el qual el cos elimina tots els estímuls externs potencialment nocius.",
+                "c": "És la capacitat del cos de mantenir un equilibri intern dinàmic davant de canvis externs.",
+                "d": "És el mecanisme exclusiu del sistema nerviós per regular la temperatura corporal."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 26,
+            "text": "Un pacient amb EPOC acudeix a fisioteràpia per millorar la seva qualitat de vida. Quin(s) sistema(es) s’han de prioritzar en el seu tractament i per què?",
+            "respostes": {
+                "a": "El sistema digestiu, per optimitzar l’absorció d’oxigen.",
+                "b": "El sistema nerviós, per reduir els reflexos respiratoris exagerats.",
+                "c": "Els sistemes respiratori i cardiovascular, perquè són essencials per millorar l’oxigenació i la tolerància a l’esforç.",
+                "d": "El sistema endocrí, per equilibrar el pH pulmonar."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 27,
+            "text": "Quina és la seqüència correcta del procés de cicatrització en ferides agudes?",
+            "respostes": {
+                "a": "Inflamatòria → Maduració → Migratòria → Proliferativa.",
+                "b": "Inflamatòria → Migratòria → Proliferativa → Remodelació.",
+                "c": "Migratòria → Inflamatòria → Proliferativa → Maduració.",
+                "d": "Inflamatòria → Proliferativa → Apoptòtica → Renovació."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 28,
+            "text": "Una dona de 35 anys amb hipotiroïdisme presenta la pell seca, freda i de color groguenc. Quin factor fisiològic probablement està alterat i com pot actuar la fisioteràpia?",
+            "respostes": {
+                "a": "Excés d’activitat de les glàndules sebàcies; es recomana l’ús de gel terapèutic.",
+                "b": "Reducció de la secreció de les glàndules sudorípares i sebàcies; aplicar hidratació local i estimular la circulació.",
+                "c": "Hipervitaminosi D; realitzar embenats oclusius.",
+                "d": "Excés de melanina; evitar qualsevol tècnica manual."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 29,
+            "text": "Quin dels següents mecanismes de pèrdua de calor és predominant durant l’exercici intens en condicions normals?",
+            "respostes": {
+                "a": "Conducció.",
+                "b": "Radiació.",
+                "c": "Convecció.",
+                "d": "Evaporació de la suor."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 30,
+            "text": "Una pacient de 40 anys amb obesitat i hipotiroïdisme presenta fatiga, pell freda i augment de pes. Quin és l’enfocament fisioterapèutic més indicat per millorar el seu metabolisme basal?",
+            "respostes": {
+                "a": "Entrenament aeròbic moderat continu.",
+                "b": "Exercicis de baix impacte enfocats en la flexibilitat.",
+                "c": "Programa combinat de força i aeròbic més assessorament nutricional especialitzat.",
+                "d": "Repòs actiu amb estimulació elèctrica passiva."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 31,
+            "text": "Quina és la funció fisiològica principal de la leptina en el context de l’equilibri energètic i la regulació de la gana?",
+            "respostes": {
+                "a": "Estimular la producció d’insulina en resposta a una dieta hipercalòrica.",
+                "b": "Induir la sensació de fam mitjançant la seva acció a l’estómac.",
+                "c": "Augmentar la reserva de greix corporal en condicions de dejuni.",
+                "d": "Reduir la gana i augmentar la despesa energètica actuant sobre l’hipotàlem."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 32,
+            "text": "Un pacient en rehabilitació després d’una lesió muscular presenta una ingesta insuficient de proteïnes. Quin d’aquests efectes és més probable que es presenti?",
+            "respostes": {
+                "a": "Disminució de la síntesi de proteïnes musculars.",
+                "b": "Augment de la síntesi de glucogen muscular.",
+                "c": "Millora de la capacitat de metabolitzar lactat.",
+                "d": "Aceleració del metabolisme basal degut al catabolisme."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 33,
+            "text": "Respecte a la inspiració normal, quina de les següents afirmacions és correcta segons la llei de Boyle i la fisiologia ventilatòria?",
+            "respostes": {
+                "a": "La pressió intrapleural augmenta, permetent l’entrada d’aire.",
+                "b": "La pressió intrapulmonar disminueix per sota de la atmosfèrica, afavorint l’entrada d’aire.",
+                "c": "El volum toràcic disminueix i la pressió intrapulmonar també.",
+                "d": "La pressió atmosfèrica s’eleva per equilibrar-se amb la pressió alveolar."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 34,
+            "text": "Un pacient sofreix un traumatisme toràcic i presenta col·lapse pulmonar unilateral. Quina alteració fisiològica és més probable que expliqui aquest troballa?",
+            "respostes": {
+                "a": "Augment de la pressió atmosfèrica per hipoventilació.",
+                "b": "Inversió del gradient de difusió alveolar.",
+                "c": "Pèrdua de la pressió negativa intrapleural.",
+                "d": "Sobreactivitat dels músculs accessories de la inspiració."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 35,
+            "text": "Quin component permet mantenir oberts els alvèols pulmonars en reduir la tensió superficial del líquid que els recobreix?",
+            "respostes": {
+                "a": "El líquid pleural.",
+                "b": "Les fibres de col·lagen alveolar.",
+                "c": "El surfactant pulmonar.",
+                "d": "L’oxiemoglobina."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 36,
+            "text": "Una pacient amb EPOC presenta hipoxèmia. Quin d’aquests canvis explicaria millor aquest troballa?",
+            "respostes": {
+                "a": "Disminució de l’espai mort anatòmic.",
+                "b": "Augment de l’espai mort fisiològic per manca de perfusió.",
+                "c": "Hiperventilació que augmenta la PO₂ alveolar.",
+                "d": "Acidosi metabòlica que disminueix l’intercanvi de CO₂."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 37,
+            "text": "Pel que fa a la regulació química de la respiració, quin d’aquests opcions descriu correctament el paper dels quimiorreceptors perifèrics?",
+            "respostes": {
+                "a": "Responen principalment als nivells de CO₂ en el líquid cefalorraquidi.",
+                "b": "Són sensibles a canvis en la pressió arterial mitjana i regulen el centre respiratori a través del bulb raquidi.",
+                "c": "Detecten canvis en la pressió parcial d’O₂ arterial i pH, i modulen la ventilació en condicions com la hipoxèmia.",
+                "d": "Es situen al bulb raquidi i la seva activació provoca alcalosi respiratòria."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 38,
+            "text": "Un muntanyenc puja ràpidament a una altitud superior als 4.000 metres. Al cap d’algunes hores presenta hiperventilació, taquicàrdia i lleu alcalosi. Quin és l’estímul fisiològic inicial que desencadena aquest patró respiratori?",
+            "respostes": {
+                "a": "Hipercapnia detectada per quimiorreceptors centrals.",
+                "b": "Disminució del pH arterial secundària a l’augment d’àcid làctic.",
+                "c": "Estimulació dels receptors pulmonars d’irritació per sequedat de l’aire.",
+                "d": "Disminució de la pressió parcial d’O₂ detectada per quimiorreceptors perifèrics."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 39,
+            "text": "Respecte al volum residual (VR), quin d’aquests afirmacions és correcta?",
+            "respostes": {
+                "a": "Disminueix en pacients amb EPOC degut a la pèrdua d’elasticitat pulmonar.",
+                "b": "Representa el volum d’aire que roman als pulmons després d’una inspiració forçada.",
+                "c": "No es pot mesurar directament amb un espiròmetre convencional.",
+                "d": "Correspon a la suma del volum corrent i el volum de reserva espiratori."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 40,
+            "text": "Un pacient amb una malaltia neuromuscular que debilita els músculs respiratoris presenta disminució del volum de reserva inspiratori (VRI). Quina seria la conseqüència més probable d’aquest troballa?",
+            "respostes": {
+                "a": "Augment del volum residual.",
+                "b": "Disminució de la capacitat vital.",
+                "c": "Augment de la ventilació alveolar.",
+                "d": "Increment de la capacitat pulmonar total."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 41,
+            "text": "Quin d’aquests factors determina directament el volum sistòlic en condicions fisiològiques normals?",
+            "respostes": {
+                "a": "Concentració d’oxigen a la sang arterial.",
+                "b": "Precàrrega, contractilitat i postcàrrega.",
+                "c": "Nivell d’hormones tiroïdals.",
+                "d": "Flux coronari total."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 42,
+            "text": "Un pacient presenta un augment sostingut de la pressió arterial i es detecta una resistència perifèrica elevada. Quina seria una explicació fisiològica adequada per aquest troballa?",
+            "respostes": {
+                "a": "Augment del to simpàtic sobre les arterioles.",
+                "b": "Disminució de la contractilitat del miocardi.",
+                "c": "Augment de la pressió venosa central.",
+                "d": "Disminució del volum sistòlic."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 43,
+            "text": "En relació amb el dèbit cardíac, quin dels mecanismes següents en regula directament l’augment durant l’exercici físic moderat?",
+            "respostes": {
+                "a": "Activació parasimpàtica i disminució de la freqüència cardíaca.",
+                "b": "Augment de la resistència vascular perifèrica.",
+                "c": "Major retorn venós i augment de la precàrrega ventricular.",
+                "d": "Disminució del volum sistòlic per menor ompliment ventricular."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 44,
+            "text": "Un pacient presenta hipertensió arterial crònica. Quina és l’alteració fisiològica més probable al seu cor com a conseqüència de la postcàrrega elevada?",
+            "respostes": {
+                "a": "Hipotròfia ventricular esquerra i augment del dèbit cardíac.",
+                "b": "Hipertrofia ventricular esquerra i disminució progressiva del volum sistòlic.",
+                "c": "Disminució de la precàrrega i millor buidatge ventricular.",
+                "d": "Augment del retorn venós i disminució de la pressió aòrtica."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 45,
+            "text": "Pel que fa al control local del flux sanguini, quin dels estímuls següents provoca vasodilatació com a mecanisme d’autoregulació metabòlica?",
+            "respostes": {
+                "a": "Augment de la pressió arterial sistèmica.",
+                "b": "Elevació dels nivells tissulars d’oxigen.",
+                "c": "Activació dels receptors α-adrenèrgics.",
+                "d": "Increment local de diòxid de carboni i disminució d’oxigen."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 46,
+            "text": "Un pacient amb diabetis mellitus tipus 2 presenta úlceres als peus per mala perfusió. Segons la fisiopatologia vascular, quin dels factors següents explica millor aquesta condició?",
+            "respostes": {
+                "a": "Predomini d’endotelina i reducció d’òxid nítric, que afavoreixen la vasoconstricció.",
+                "b": "Disminució de la resistència perifèrica per vasodilatació mantinguda.",
+                "c": "Augment en l’alliberament d’òxid nítric per l’endoteli.",
+                "d": "Augment de la pressió capil·lar venosa amb hiperfiltració als teixits."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 47,
+            "text": "En relació amb la regulació nerviosa del tub digestiu, quina de les afirmacions següents sobre el Sistema Nerviós Entèric (SNE) és correcta?",
+            "respostes": {
+                "a": "És controlat exclusivament pel sistema nerviós central mitjançant el nervi vague.",
+                "b": "El plexe d’Auerbach es troba a la submucosa i regula la secreció digestiva.",
+                "c": "El SNE opera de forma autònoma i coordina la motilitat mitjançant el plexe mientèric.",
+                "d": "L’activitat del SNE requereix sempre estímuls hormonals per iniciar la contracció."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 48,
+            "text": "Un pacient encamillat presenta trànsit intestinal lent i restrenyiment crònic. Des d’un punt de vista fisiològic, quin és el mecanisme més directament afectat?",
+            "respostes": {
+                "a": "Augment de la secreció de bilis per falta d’estímul vagal.",
+                "b": "Disminució de l’activitat del sistema simpàtic.",
+                "c": "Hiperactivitat dels plexes nerviosos mientèrics.",
+                "d": "Reducció de l’activitat dels reflexos intrínsecs i del peristaltisme."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 49,
+            "text": "Quin efecte té una postura de cap endavant sobre la fisiologia de la deglució?",
+            "respostes": {
+                "a": "Augmenta la pressió sobre l’epiglotis, facilitant el pas del bol.",
+                "b": "Millora la funció del nervi vague i la coordinació faringoesofàgica.",
+                "c": "Disminueix l’eficiència de l’elevació laríngia i altera la motilitat esofàgica.",
+                "d": "Estimula la contracció diafragmàtica afavorint el buidatge gàstric."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 50,
+            "text": "Un pacient amb postura encorbada i respiració toràcica superficial presenta digestió lenta, distensió abdominal i restrenyiment. Quin és el mecanisme fisiopatològic més probable?",
+            "respostes": {
+                "a": "Hipersecreció de bilis que altera la microbiota intestinal",
+                "b": "Disfunció diafragmàtica que redueix la pressió intraabdominal i l'estimulació vagal.",
+                "c": "Augment del peristaltisme gàstric per hipertonia parasimpàtica.",
+                "d": "Contraccions excessives de l'esfínter anal intern."
+            },
+            "correcta": "b",
+            "type": "multi"
+        }
+    ]
+}
