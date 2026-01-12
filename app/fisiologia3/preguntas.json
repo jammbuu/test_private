@@ -1,0 +1,364 @@
+{
+    "preguntes": [
+        {
+            "id": 1,
+            "text": "Quina resposta és INCORRECTA, en referència a les funcions mecàniques dels nervis??",
+            "respostes": {
+                "a": "La tensió és la capacitat del nervi d'aguantar tensió longitudinal (estirament).",
+                "b": "El lliscament longitudinal és la capacitat del nervi de desplaçar-se cap el punt de menys tensió.",
+                "c": "El lliscament transversal és la capacitat que té el nervi suportar tensions laterals d'estructures veïnes.",
+                "d": "El lliscament serveix per dissipar/dispersar la tensió del SN."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 2,
+            "text": "Quina resposta és INCORRECTA?",
+            "respostes": {
+                "a": "Els receptors de Paccini són els responsables de detectar les vibracions del telèfon mòbil.",
+                "b": "Els mecanoreceptors són fibres mielíniques de transmissió ràpida.",
+                "c": "La nocicepció viatja per la columna lemnisc medial.",
+                "d": "El tacte protopàtic viatja per la via espinotalàmica."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 3,
+            "text": "Quina simptomatologia NO és pròpia de la lesió de la motoneurona superior?",
+            "respostes": {
+                "a": "Hiperreflèxia.",
+                "b": "Espasticitat.",
+                "c": "Hipotonia.",
+                "d": "Clonus."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 4,
+            "text": "Quina característica és pròpia de la transmissió neuromuscular del múscul cardíac i llis?",
+            "respostes": {
+                "a": "La transmissió neuromuscular utilitza la placa motora.",
+                "b": "Està format per motoneurones alfa",
+                "c": "És necessari la sumació dels potencials d'acció",
+                "d": "Els potencials d'acció són sempre inhibitoris"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 5,
+            "text": "Respecte als neurotransmissors que s'utilitzen a les sinapsis entre neurones, quina resposta és INCORRECTA?",
+            "respostes": {
+                "a": "El Glutamat té funció excitadora.",
+                "b": "GABA té funció inhibidora.",
+                "c": "La Substància P té funció excitadora.",
+                "d": "L'acetilcolina sempre té funció excitadora."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 6,
+            "text": "Quina informació sensorial NO fa relleu al tàlem i viatja directament a l'escorça cerebral",
+            "respostes": {
+                "a": "Olfacte.",
+                "b": "Vista.",
+                "c": "Oïda.",
+                "d": "Gust."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 7,
+            "text": "Quin tracte forma part de la via piramidal?",
+            "respostes": {
+                "a": "Retículoespinal.",
+                "b": "Vestíbulespinal.",
+                "c": "Corticoespinal lateral i medial.",
+                "d": "Rubroespinal."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 8,
+            "text": "Referent a l'efecte del SN Simpàtic sobre la medul.la suprarenal, quina resposta és INCORRECTA?",
+            "respostes": {
+                "a": "La seva activació produeix una activació simpàtica més intensa i de llarga durada.",
+                "b": "La medul.la suprarrenal es troba a la part interna de la glàndula suprarenal.",
+                "c": "La neurona preganglionar no fa sinapsi a cap gangli simpàtic.",
+                "d": "La seva activació produeix cortisol."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 9,
+            "text": "Quina resposta és INCORRECTA, respecte al potencial d'acció de la neurona?",
+            "respostes": {
+                "a": "La Bomba Na+/K+ ATPasa retorna a la neurona al potencial de repòs.",
+                "b": "Durant la despolarització s'obren de forma massiva els canals de Na+, que es desplaçarà cap a l'interior de la neurona.",
+                "c": "Durant la fase de repolarització, els canal de Na+ i K+ es tanquen al mateix temps",
+                "d": "El potencial d'acció es produeix del tot o no es produeix."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 10,
+            "text": "A quin reflex correspon aquesta resposta?: contracció de la musculatura flexora i relaxació de la musculatura extensora",
+            "respostes": {
+                "a": "Reflex d'estirament.",
+                "b": "Reflex extensor creuat.",
+                "c": "Reflex flexor o de retirada.",
+                "d": "Reflex de Babinski."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 11,
+            "text": "Quin dels següents reflexes és primitiu?",
+            "respostes": {
+                "a": "Reflex de Moro.",
+                "b": "Reflex pilomotor.",
+                "c": "Reflex miotàtic invers.",
+                "d": "Reflex vestíbul-ocular."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 12,
+            "text": "Quina resposta NO és una característica de la Sensibilització Central?",
+            "respostes": {
+                "a": "És un tipus de neuroplasticitat adaptativa",
+                "b": "És la principal responsable de la hiperalgèsia secundaria.",
+                "c": "Els mecanismes inhibidors del dolor estan molt actius.",
+                "d": "Pot acompanyar-se d'hipersensibilitat sensorial."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 13,
+            "text": "Durant la sensibilització central té lloc una sobreestimulació de la banya posterior de la medul.la. A quin fenomen correspon aquesta descripció? L'activació persistent de la neurona de segon ordre provoca un augment progressiu de la intensitat del dolor.",
+            "respostes": {
+                "a": "Noves sinapsis fibres A-Beta",
+                "b": "Wind-up",
+                "c": "Activació noves sinapsis silents espinals.",
+                "d": "Implicació de la microglia."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 14,
+            "text": "Quin receptor vestibular detecta acceleracions en el pla vertical?",
+            "respostes": {
+              "a": "Canal semicircular posterior.",
+              "b": "Canal semicircular anterior.",
+              "c": "Utricle.",
+              "d": "Sàcul."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 15,
+            "text": "Quina resposta és INCORRECTA?",
+            "respostes": {
+              "a": "Les neurones preganglionars parasimpàtiques són adrenèrgiques.",
+              "b": "Les neurones postganglionars simpàtiques són més llargues que les postganglionars parasimpàtiques.",
+              "c": "L'acetilcolina és el neurotransmissor del SN Parasimpàtic.",
+              "d": "El SN Simpàtic està format per 2 cadenes de ganglis paravertebrals i 1 cadena de ganglis prevertebrals."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 16,
+            "text": "Quin tipus de neurona és la motoneurona?",
+            "respostes": {
+              "a": "Unipolar.",
+              "b": "Multipolar.",
+              "c": "Bipolar.",
+              "d": "Pseudopolar."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 17,
+            "text": "Quina resposta és INCORRECTA?",
+            "respostes": {
+                "a": "L'eix Hipotàlem-Hipòfisi-Suprarenal (HHA) s'activa en situacions d'estrès.",
+                "b": "El to simpàtic es recupera més lentament que el to parasimpàtic.",
+                "c": "El nucli supraquiasmàtic, situat a l'hipotàlem és el centre on es sincronitzen els ritmes circadians",
+                "d": "L'activació de l'hipotàlem genera respostes endocrines, del SN Autònom i conductuals."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 18,
+            "text": "Referent a la transmissió neuromuscular, quina resposta és INCORRECTA?",
+            "respostes": {
+                "a": "El potencial de placa motora es produeix al sistema tubular.",
+                "b": "1 fibra muscular rep només 1 sola placa motora.",
+                "c": "El potencial de placa motora és sempre excitatòri.",
+                "d": "El potencial d'acció muscular és el que inicia el cicle de la contracció muscular."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 19,
+            "text": "Si un/a pacient té una lesió que afecta al tracte corticoespinal lateral, presentarà",
+            "respostes": {
+                "a": "Dificultat per moure l'espatlla",
+                "b": "Dificultat per a realitzar moviments precisos amb les mans",
+                "c": "Dificultat per mantenir-se sentat",
+                "d": "Dificultat per a controlar la musculatura de la cara"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 20,
+            "text": "Quina resposta és CORRECTA, respecte al sentit de la vista?",
+            "respostes": {
+                "a": "Quan arriba la llum al fotoreceptor es produeix la hiperpolarització.",
+                "b": "Els bastons s'ocupen de la visió en color.",
+                "c": "La fòvea és la zona de menys agudesa visual.",
+                "d": "L'escorça visual primària està situada al lòbul temporal."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 21,
+            "text": "Quines cèl·lules s'encarreguen de la producció de mielina al sistema nerviós?",
+            "respostes": {
+                "a": "Oligodendròcits i cèl·lules Schwann.",
+                "b": "Astròcits.",
+                "c": "Oligodendròcits només al SN Perifèric.",
+                "d": "Cèl·lules satèl·lit."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 22,
+            "text": "A quina característica dels reflexes correspon aquesta definició: 'Augment de la magnitud de l'estímul, propagació de l'impuls nerviós, activació de més neurones eferents'",
+            "respostes": {
+                "a": "Fatiga.",
+                "b": "Inhibició.",
+                "c": "Oclusió.",
+                "d": "Irradiació."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 23,
+            "text": "Referent al control del to muscular, quina resposta és INCORRECTA?",
+            "respostes": {
+                "a": "Les motoneurones gamma regulen la sensibilitat del fus neuromuscular.",
+                "b": "Les motoneurones gamma dinàmiques participen en el manteniment del to muscular durant moviments lents i sostinguts.",
+                "c": "El fus neuromuscular té una part sensitiva i una contràctil. La part contràctil està innervada per les motoneurones gamma.",
+                "d": "L'activació simultània de motoneurones alfa i gamma és un mecanisme necessari pel control del to muscular."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 24,
+            "text": "Respecte al fenomen de convergència, que es dona a la integració sinàptica, quina resposta és CORRECTA?",
+            "respostes": {
+                "a": "Es dona a la sumació temporal d'estímuls.",
+                "b": "Es dona a la sumació espacial d'estímuls.",
+                "c": "Una sola neurona presinàptica forma sinapsis amb múltiples neurones postsinàptiques.",
+                "d": "Permet que un senyal es distribueixi a diferents àrees i s'amplifiqui a través de múltiples camins."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 25,
+            "text": "Quin còrtex s'activa quan fem moviments aleatoris sense planificació?",
+            "respostes": {
+                "a": "Còrtex premotor lateral.",
+                "b": "Còrtex premotor medial.",
+                "c": "Còrtex motor.",
+                "d": "Àrea suplementaria."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 26,
+            "text": "Quina resposta és INCORRECTA?",
+            "respostes": {
+                "a": "Dolor crònic: quant més actiu físicament és un/a pacient més activa és la seva matriu del dolor.",
+                "b": "L'entrenament de la lateralitat és un tipus d'entrenament del còrtex motor.",
+                "c": "El catastrofisme és una bandera groga, que indica risc de cronicitat",
+                "d": "La dimensió cognitivo-avaluadora pot modular a les altres dues dimensions del dolor."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 27,
+            "text": "Quin procés NO té lloc a la sensibilització perifèrica?",
+            "respostes": {
+                "a": "Fosforilació dels nociceptors.",
+                "b": "Augment de canals iònics.",
+                "c": "Activació de nociceptors silents.",
+                "d": "Participació del receptor NMDA del glutamat."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 28,
+            "text": "Quin efecte està produït per l'activació del SN Parasimpàtic?",
+            "respostes": {
+                "a": "Vasodilatació vasos sanguinis digestius.",
+                "b": "Vasodilatació múscul esquelètic",
+                "c": "Contracció dels esfínters.",
+                "d": "Augment de la freqüència cardíaca."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 29,
+            "text": "Quina resposta és CORRECTA?",
+            "respostes": {
+                "a": "Mibrobiota i microbioma són sinònims.",
+                "b": "A més elevació de la Freqüència Cardíaca (FC), més augmenta la Variabilitat de la Freqüència Cardíaca (VFC).",
+                "c": "El SN Entèric produeix serotonina.",
+                "d": "El plexe Mientèric (Auerbach) controla la secreció gastrointestinal."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 30,
+            "text": "Pacient amb una dificultat per iniciar i finalitzar el moviment, quina àrea té lesionada?\n",
+            "respostes": {
+                "a": "Nuclis vestibulars.",
+                "b": "Formació reticular.",
+                "c": "Cerebel.",
+                "d": "Ganglis basals."
+            },
+            "correcta": "d",
+            "type": "multi"
+        }
+    ]
+}
