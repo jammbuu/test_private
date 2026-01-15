@@ -40,7 +40,7 @@ function cargarPreguntas(archivo) {
 
 // Llamar a cargarPreguntas con el parcial por defecto al cargar la página
 window.onload = () => {
-    cargarPreguntas('bioestadistica_preguntas.json'); // o el archivo que prefieras como predeterminado
+    cargarPreguntas('preguntas.json'); // o el archivo que prefieras como predeterminado
 };
 
 function mostrarPregunta() {

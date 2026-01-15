@@ -40,7 +40,7 @@ function cargarPreguntas(archivo) {
 
 // Llamar a cargarPreguntas con el parcial por defecto al cargar la página
 window.onload = () => {
-    cargarPreguntas('anatomia_preguntas.json'); // o el archivo que prefieras como predeterminado
+    cargarPreguntas('preguntas.json'); // o el archivo que prefieras como predeterminado
 };
 
 function mostrarPregunta() {
@@ -74,6 +74,7 @@ function mostrarPregunta() {
   document.getElementById('pregunta').innerText = preguntaActual.text;
   let opcionesDiv = document.getElementById('opciones');
   opcionesDiv.innerHTML = '';
+
   let imagenDiv = document.getElementById('imagenPregunta');
   imagenDiv.innerHTML = '';
 

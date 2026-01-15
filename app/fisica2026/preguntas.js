@@ -6,10 +6,11 @@ let incorrectas = 0;
 let totalPreguntas = 0;
 let preguntasInicial = 0;
 
-// nuevo: almacenar fallos con detalle
+// para el review final
 let fallos = [];
+let aciertos = [];
 
-function cargarPreguntas(archivo) {
+function cargarPreguntas(archivo, modoFallos = false) {
   fetch(`${archivo}`)
     .then(response => response.json())
     .then(data => {
@@ -18,36 +19,36 @@ function cargarPreguntas(archivo) {
       correctas = 0;
       incorrectas = 0;
       fallos = [];
+      aciertos = [];
 
-      preguntas = data.preguntes;
-      preguntas = preguntas.sort(() => Math.random() - 0.5);
+      if (!modoFallos) {
+        preguntas = data.preguntes;
+        preguntas = preguntas.sort(() => Math.random() - 0.5);
 
-      preguntasInicial = Math.max(preguntasInicial, ...preguntas.map(p => p.id));
+        preguntasInicial = Math.max(preguntasInicial, ...preguntas.map(p => p.id));
 
-      preguntas = preguntas.filter((pregunta, index, self) =>
-        index === self.findIndex((t) => (
-          t.text === pregunta.text
-        ))
-      );
+        preguntas = preguntas.filter((pregunta, index, self) =>
+          index === self.findIndex((t) => (t.text === pregunta.text))
+        );
+
+      } else {
+        preguntas = archivo; // ahora archivo es un array de fallos
+      }
 
       totalPreguntas = preguntas.length;
-
       document.querySelector('h1').innerText = `Pregunta ${preguntaActualIndex + 1} de ${preguntasInicial}`;
       mostrarPregunta();
     });
 }
 
 window.onload = () => {
-  cargarPreguntas('fisica_preguntas.json');
+  cargarPreguntas('preguntas.json');
 };
 
 function mostrarPregunta() {
   if (preguntaActualIndex != 0) {
     document.getElementById('disclaimer').setAttribute("hidden", "true");
   }
-
-  totalPreguntas = preguntas.length;
-  document.querySelector('h1').innerText = `Pregunta ${preguntaActualIndex + 1} de ${preguntasInicial}`;
 
   if (preguntaActualIndex >= preguntas.length) {
     mostrarPantallaFinal();
@@ -62,14 +63,17 @@ function mostrarPregunta() {
     return;
   }
 
+  document.querySelector('h1').innerText = `Pregunta ${preguntaActualIndex + 1} de ${preguntasInicial}`;
+
   document.getElementById('pregunta').innerText = preguntaActual.text;
+
   let opcionesDiv = document.getElementById('opciones');
   opcionesDiv.innerHTML = '';
 
   let imagenDiv = document.getElementById('imagenPregunta');
   imagenDiv.innerHTML = '';
 
-  if (preguntaActual.type === 'multifoto' && preguntaActual.img) {
+  if ((preguntaActual.type === 'multifoto' || preguntaActual.type === 'multiimg') && preguntaActual.img) {
     let imgElement = document.createElement('img');
     imgElement.src = preguntaActual.img;
     imgElement.classList.add('max-w-full', 'rounded', 'shadow-md', 'my-4');
@@ -83,19 +87,20 @@ function mostrarPregunta() {
     respuestas.forEach(([key, value]) => {
       let boton = document.createElement('button');
       boton.innerText = value;
-      boton.classList.add('bg-gray-200', 'hover:bg-gray-300', 'py-2', 'px-4', 'rounded');
+      boton.classList.add('bg-gray-200', 'hover:bg-gray-300', 'py-2', 'px-4', 'rounded', 'w-full');
       boton.onclick = () => validarRespuesta(key, value);
       opcionesDiv.appendChild(boton);
     });
+
   } else if (preguntaActual.type === 'text') {
     let input = document.createElement('input');
     input.type = 'text';
     input.id = 'respuestaTexto';
-    input.classList.add('border', 'rounded', 'py-2', 'px-4');
+    input.classList.add('border', 'rounded', 'py-2', 'px-4', 'w-full');
 
     let boton = document.createElement('button');
     boton.innerText = 'Validar';
-    boton.classList.add('bg-gray-200', 'hover:bg-gray-300', 'py-2', 'px-4', 'rounded');
+    boton.classList.add('bg-gray-200', 'hover:bg-gray-300', 'py-2', 'px-4', 'rounded', 'w-full');
     boton.onclick = () => validarRespuesta(input.value, input.value);
 
     opcionesDiv.appendChild(input);
@@ -117,41 +122,32 @@ function mezclarArray(array) {
 function validarRespuesta(respuestaUsuarioKey, respuestaUsuarioTexto) {
   let preguntaActual = preguntas[preguntaActualIndex];
   let esCorrecta = preguntaActual.correcta === respuestaUsuarioKey;
-
-  preguntaActualIndex++;
+  let respuestaCorrecta = obtenerRespuestaCorrecta(preguntaActual);
 
   if (esCorrecta) {
-    Swal.fire({
-      title: '¡Correcto!',
-      icon: 'success',
-      confirmButtonText: 'Siguiente'
-    }).then(() => {
-      correctas++;
-      preguntasRespondidas.push(preguntaActual.id);
-      mostrarPregunta();
-    });
-  } else {
-    let respuestaCorrecta = obtenerRespuestaCorrecta(preguntaActual);
-
-    fallos.push({
-      id: preguntaActual.id,
+    aciertos.push({
       text: preguntaActual.text,
       correcta: respuestaCorrecta,
       marcada: respuestaUsuarioTexto,
       img: preguntaActual.img || null
     });
-
-    Swal.fire({
-      title: 'Incorrecto',
-      text: `La correcta era: ${respuestaCorrecta}`,
-      icon: 'error',
-      confirmButtonText: 'Siguiente'
-    }).then(() => {
-      incorrectas++;
-      preguntasRespondidas.push(preguntaActual.id);
-      mostrarPregunta();
+    correctas++;
+  } else {
+    fallos.push({
+      id: preguntaActual.id,
+      text: preguntaActual.text,
+      correcta: respuestaCorrecta,
+      marcada: respuestaUsuarioTexto,
+      img: preguntaActual.img || null,
+      respostes: preguntaActual.respostes,
+      correctaKey: preguntaActual.correcta
     });
+    incorrectas++;
   }
+
+  preguntasRespondidas.push(preguntaActual.id);
+  preguntaActualIndex++;
+  mostrarPregunta();
 }
 
 function obtenerRespuestaCorrecta(pregunta) {
@@ -159,38 +155,48 @@ function obtenerRespuestaCorrecta(pregunta) {
 }
 
 function mostrarPantallaFinal() {
-  let htmlFallos = "";
+  let html = `<h3 style="font-weight:bold;">Resultados del examen</h3><br>`;
 
-  if (fallos.length > 0) {
-    htmlFallos += `<h3 style="font-weight:bold; margin-bottom:10px;">Preguntas incorrectas:</h3>`;
+  html += `<b>Correctas:</b> ${correctas}<br>`;
+  html += `<b>Incorrectas:</b> ${incorrectas}<br>`;
+  html += `<b>Nota:</b> ${(correctas / totalPreguntas * 10).toFixed(2)}<br><br>`;
 
-    fallos.forEach(f => {
-      htmlFallos += `
-        <div style="margin-bottom:14px; padding:10px; border-left:3px solid red;">
-          <div><strong>${f.text}</strong></div>
-          ${f.img ? `<img src="${f.img}" style="max-width:100%; margin:6px 0;">` : ''}
-          <div style="color:red; margin-top:4px;">Marcaste: ${f.marcada}</div>
-          <div style="color:green;">Correcta: ${f.correcta}</div>
-        </div>
-      `;
-    });
-  } else {
-    htmlFallos = `<p style="font-size:18px; margin-top:10px;">🔥 No fallaste ninguna, máquina</p>`;
-  }
+  html += `<h4 style="margin-top:10px;">Revisión completa:</h4>`;
+
+  [...aciertos, ...fallos].forEach(p => {
+    html += `
+      <div style="margin-bottom:12px; padding:10px; border-left:3px solid ${p.marcada === p.correcta ? 'green' : 'red'};">
+        <strong>${p.text}</strong><br>
+        ${p.img ? `<img src="${p.img}" style="max-width:100%; margin:5px 0;">` : ''}
+        <span style="color:${p.marcada === p.correcta ? 'green' : 'red'}">Marcaste: ${p.marcada}</span><br>
+        <span style="color:green">Correcta: ${p.correcta}</span>
+      </div>
+    `;
+  });
 
   Swal.fire({
-    title: '¡Has terminado!',
-    width: 650,
-    html: `
-      Acertaste: <b>${correctas}</b> <br>
-      Fallaste: <b>${incorrectas}</b> <br>
-      Nota: ${(correctas / totalPreguntas * 10).toFixed(2)}
-      <br><br>
-      ${htmlFallos}
-    `,
+    title: '¡Examen terminado!',
+    width: 700,
+    html: html,
+    showCancelButton: fallos.length > 0,
+    cancelButtonText: 'Repetir solo fallos',
     confirmButtonText: 'Volver a jugar',
     allowOutsideClick: false
-  }).then(() => {
-    window.location.reload();
+  }).then(result => {
+    if (result.dismiss === Swal.DismissReason.cancel && fallos.length > 0) {
+      let preguntasFalladas = fallos.map(f => {
+        return {
+          id: f.id,
+          text: f.text,
+          correcta: f.correctaKey,
+          img: f.img,
+          type: 'multi',
+          respostes: f.respostes
+        };
+      });
+      cargarPreguntas(preguntasFalladas, true);
+    } else {
+      window.location.reload();
+    }
   });
 }

@@ -1,0 +1,556 @@
+{
+    "preguntes": [
+        {
+            "id": 1,
+            "text": "Quin lligament del maluc limita l’extensió, la rotació externa i l’abducció?",
+            "respostes": {
+                "a": "Isquiofemoral",
+                "b": "Pubofemoral",
+                "c": "Iliofemoral",
+                "d": "Transvers de l’acetàbul"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 2,
+            "text": "Assenyala l’opció correcta en relació amb els tendons i els lligaments",
+            "respostes": {
+                "a": "La cèl·lula que predomina en tendons i lligaments son los tenòcits o fibroblasts",
+                "b": "Els lligaments es caracteritzen per alta proporció d’elastina",
+                "c": "El tendó uneix os amb os",
+                "d": "La reparació tendinosa és rápida perquè té bona vasculatizació"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 3,
+            "text": "Quina de les següents afirmacions és correcta en relació amb el sarcòmer, el sarcoplasma i el sarcolema?",
+            "respostes": {
+                "a": "El sarcolema està situat per sobre de l’epimisi i és un element contràctil",
+                "b": "El sarcòmer és la unitat contràctil del múscul, format per bandes d’actina i miosina",
+                "c": "El sarcolema és el citoplasma de la fibra muscular",
+                "d": "El sarcoplasma és la membrana de la fibra muscular"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 4,
+            "text": "En relació al canell, Quina desviació té major amplitud fisiològica?",
+            "respostes": {
+                "a": "Abducció",
+                "b": "Radial",
+                "c": "Cubital",
+                "d": "Pronació"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 5,
+            "text": "Quins moviments formen part dels tres graus de llibertat de l’articulació esternocostoclavicular?",
+            "respostes": {
+                "a": "Flexió, extensió i adducció",
+                "b": "Elevació i depressió, retracció i protracció, i rotació axial",
+                "c": "Supinació, pronació i inclinació lateral",
+                "d": "Rotació interna, rotació externa i abducció"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 6,
+            "text": "Quin enunciat descriu correctament una alteració de l’angle d’inclinació femoral?",
+            "respostes": {
+                "a": "La coxa vara implica un angle d’inclinació augmentat respecte al normal",
+                "b": "La coxa valga indica un augment de l’angle d’inclinació per sobre 125º",
+                "c": "La coxa vara es produeix quan l’angle d’inclinació és superior a 135°",
+                "d": "La coxa valga es caracteritza per un angle d’inclinació inferior a 120°"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 7,
+            "text": "Quina és la funció del tibial anterior en la fase d’oscil·lació?",
+            "respostes": {
+                "a": "Realitza un treball excèntric per controlar l’extensió del turmell",
+                "b": "Manté el peu en posició neutra sense moviment",
+                "c": "Realitza una flexió plantar per preparar la recepció",
+                "d": "Col·labora en concentric en la flexió dorsal del peu per evitar que arrossegui el peu"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 8,
+            "text": "Durant la fase d’impuls, quin d’aquests moviments és correcte?",
+            "respostes": {
+                "a": "La cadera es col·loca en flexió marcada",
+                "b": "Els isquiotibials treballen de forma excèntrica per iniciar l’impuls",
+                "c": "Hi ha una extensió important de genoll",
+                "d": "Hi ha una flexió plantar potent i lenta d’uns 30º"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 9,
+            "text": "Quins són els elements passius del múscul?",
+            "respostes": {
+                "a": "Actina i miosina",
+                "b": "Fus neuromuscular i fibra intrafusal",
+                "c": "Fibra muscular extrafusal i fus neuromuscular",
+                "d": "Endomisi, perimisi i epimisi"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 10,
+            "text": "A la fase d'impuls:",
+            "respostes": {
+                "a": "Al pla frontal una hemipelvis cau 5º",
+                "b": "Al pla frontal, el tibial anterior que és un múscul inversor, inverteix la seva acció",
+                "c": "Al pla horitzontal les coxofemorals estan en neutre",
+                "d": "Al pla sagital, el tríceps sural fa una contracció excèntrica"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 11,
+            "text": "A la fase d'oscil·lació:",
+            "respostes": {
+                "a": "Al pla sagital els isquiotibials treballen de manera excèntrica i el recte anterior en concèntric",
+                "b": "Hi ha un treball de l'oblic major, extern, contralateral i l'oblic menor, intern, homolateral",
+                "c": "La caiguda implícita de la pelvis al pla frontal la controla el gluti mig en excèntric",
+                "d": "Al pla horitzontal, la cintura escapular es troba en rotació homolateral a la cintura pèlvica"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 12,
+            "text": "A la fase de recepció:",
+            "respostes": {
+                "a": "Si hi ha una marxa en steppage veurem una afectació del tibial anterior",
+                "b": "Al pla sagital quan el taló contacta amb el terra, el peu s'adapta fent una ràpida flexió dorsal",
+                "c": "Al pla horitzontal, la cama d'impuls es troba en rotació externa",
+                "d": "Al pla horitzontal, els rotadors fan un treball en excèntric"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 13,
+            "text": "A la fase de suport unipodal:",
+            "respostes": {
+                "a": "És important que hi hagi una lleugera flexió de maluc, genoll i turmell per garantir l'estabalitat",
+                "b": "Al pla sagital hi ha un predomini de treball concèntric excepte en el cas del tríceps sural que treballa en excèntric",
+                "c": "És important que hi hagi una lleugera flexió de maluc i genoll per garantir l'estabalitat",
+                "d": "És important que hi hagi una lleugera flexió de genoll per garantir l'estabalitat"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 14,
+            "text": "La marxa del nen i la tercera edat, assenyala la incorrecta:",
+            "respostes": {
+                "a": "Cames en rotació interna",
+                "b": "Disminució de la velocitat del pas",
+                "c": "Disminució de la longitud del pas",
+                "d": "Peus més separats"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 15,
+            "text": "Marxa típica en atròfies o paràlisi del gluti mitjà:",
+            "respostes": {
+                "a": "Marxa antiàlgica",
+                "b": "Marxa en Trendelenburg",
+                "c": "Marxa atàxica",
+                "d": "Marxa equina"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 16,
+            "text": "A la fase de recepció, el múscul més important al pla frontal és:",
+            "respostes": {
+                "a": "Rotadors externs",
+                "b": "Cap d'ells",
+                "c": "Tibial anterior",
+                "d": "Rotadors interns"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 17,
+            "text": "La facilitació neuromuscular propioceptiva:",
+            "respostes": {
+                "a": "És una tècnica exclusiva de la rehabilitació neurològica.",
+                "b": "Es basa en moviments analítics i concrets.",
+                "c": "Treballa la força i el rang de moviment.",
+                "d": "Dues són correctes"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 18,
+            "text": "En quant al sistema propioceptiu:",
+            "respostes": {
+                "a": "Els quimioreceptors són uns dels més importants que treballem a fisioteràpia",
+                "b": "Els receptors propioceptius sans no cal treballar-los",
+                "c": "Com és un sistema autònom no passa pel sistema nerviós central.",
+                "d": "Davant d'una lesió, podem trobar, a la vegada, alteracions propioceptives diverses, fins i tot, algunes que no es podran recuperar."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 19,
+            "text": "Quan una resistència donada és major que la tensió exercida pel múscul determinat, de manera que aquest s'allarga es\ndiu que és una contracció:",
+            "respostes": {
+                "a": "Concèntrica",
+                "b": "Isomètrica",
+                "c": "Isocinètica",
+                "d": "Excèntrica"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 20,
+            "text": "Forces iguals i oposades aplicades cap a fora de la superfície de l'estructura:",
+            "respostes": {
+                "a": "Compressió",
+                "b": "Tracció",
+                "c": "Flexió",
+                "d": "Cisalla"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 21,
+            "text": "Al cartílag, quina capa té més contingut de sals de calci?",
+            "respostes": {
+                "a": "Zona III",
+                "b": "Zona I",
+                "c": "Zona II",
+                "d": "Zona IV"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 22,
+            "text": "L'angle format entre la direcció de l'eix longitudinal del peu i una línia imaginària que segueix l'eix longitudinal del cos:",
+            "respostes": {
+                "a": "Angle de Fick",
+                "b": "Angle de retroversió femoral",
+                "c": "Angle Q",
+                "d": "Angle d'anterversió femoral"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 23,
+            "text": "Quin ós, per la seva morfologia, presenta un risc de necrosi en cas de fractura",
+            "respostes": {
+                "a": "Semilunar",
+                "b": "Os gran",
+                "c": "Escafoides",
+                "d": "Ganxós"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 24,
+            "text": "La pinça amb la que el contacte es realitza amb les polpes dels dits",
+            "respostes": {
+                "a": "Pinça d'oposició terminal",
+                "b": "Pinça látero-lateral",
+                "c": "Pinça d'oposició subterminal",
+                "d": "Pinça d'oposició subtermino-lateral"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 25,
+            "text": "L'angle format per una línia que va de l'EIAS al centre de la ròtula i des del centre de la ròtula fins a la TTA?",
+            "respostes": {
+                "a": "Angle d'anterversió femoral",
+                "b": "Angle de Fick",
+                "c": "Angle de retroversió femoral",
+                "d": "Angle Q"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 26,
+            "text": "En un gràfic e-t (espai-temps) del moviment d'un mòbil ...",
+            "respostes": {
+                "a": "l'àrea sota la corba entre dos instants de temps és la velocitat mitjana del mòbil en l'interval de temps considerat.",
+                "b": "el pendent de la recta que uneix dos punts és el valor de l'acceleració mitjana en l'interval de temps considerat.",
+                "c": "el pendent de la recta que uneix dos punts és el valor de la velocitat mitjana en l'interval de temps considerat.",
+                "d": "l'àrea sota la corba entre dos instants de temps és l'acceleració mitjana del mòbil en l'interval de temps considerat."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 27,
+            "text": "El tir parabòlic és la combinació de dos tipus de moviment",
+            "respostes": {
+                "a": "Un moviment rectilini uniformement accelerat en l'eix horitzontal i un moviment rectilini uniforme en l'eix vertical.",
+                "b": "Un moviment rectilini uniformement accelerat en l'eix vertical i un moviment rectilini uniforme en l'eix horizontal.",
+                "c": "Un moviment circular uniformement accelerat en l'eix vertical i un moviment rectilini uniforme en l'eix horizontal.",
+                "d": "Un moviment circular uniforme en l'eix vertical i un moviment rectilini uniforme en l'eix horizontal."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 28,
+            "text": "En un moviment circular uniforme ...",
+            "respostes": {
+                "a": "El mòbil segueix una trajectória circular i no està accelerat.",
+                "b": "El mòbil pateix una acceleració constant, anomenada acceleració normal, que modifica la direcció de la seva velocitat en cada punt de la seva trajectòria.",
+                "c": "El mòbil segueix una trajectòria circular a velocitat constant (en mòdul i direcció).",
+                "d": "El mòbil està accelerat degut a una acceleració constant, anomenada acceleració normal, perpendicular a la seva velocitat en cada punt de la seva trajectòria i que modifica el seu mòdul."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 29,
+            "text": "L'espai recorregut per un mòbil...",
+            "respostes": {
+                "a": "és una magnitud escalar que mesura la longitud del recorregut entre la posició inicial i final del mòbil mesurada sobre la trajectòria.",
+                "b": "és una magnitud vectorial que només depèn de la posició inicial i final del mòbil i és independent de la trajectòria.",
+                "c": "és una magnitud vectorial de mòdul igual a la distància recorreguda pel mòbil.",
+                "d": "és una magnitud escalar que indica la distància en línia recta des de la posició inicial fins la poscició final del moviment."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 30,
+            "text": "La tercera llei de Newton estableix que",
+            "respostes": {
+                "a": "La força Normal és la força de reacció al pes d'un cos, que és la força d'acció.",
+                "b": "Si un cos exerceix una força sobre un altre, aquest exercirà una força sobre el primer d'igual mòdul i direcció, però de sentit oposat.",
+                "c": "En resposta a una força d'acció sobre un cos, apareix una altra força sobre el mateix cos, d'igual mòdul i direcció però de sentit oposat a la primera, anomenada força de reacció.",
+                "d": "Dos cossos s'atrauen amb una força directament proporcional al producte de les seves masses i inversament proporcional al quadrat de la distància que les separa."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 31,
+            "text": "L'acceleració que experimenta un cos degut a la gravetat…",
+            "respostes": {
+                "a": "depèn del pes del cos.",
+                "b": "únicament depèn de la massa del cos.",
+                "c": "depèn de la massa del cos i de la distància a la qual es troba el cos de la superfície terrestre.",
+                "d": "no depèn de la massa del cos, és la mateixa per a tots els cossos en caiguda lliure sobre la Terra."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 32,
+            "text": "Quina de les següents afirmacions és INCORRECTA?",
+            "respostes": {
+                "a": "L'estabilitat d'un cos és menor quant més baix estigui el seu centre de gravetat.",
+                "b": "L'estabilitat d'un cos augmenta a mesura que el seu centre de gravetat baixa.",
+                "c": "Un cos es mantindrà estable mentre la projecció vertical del seu centre de gravetat estigui sobre la seva base de sustentació.",
+                "d": "L'estabilitat d'un cos és més gran quant més gran és la seva base de sustentació."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 33,
+            "text": "Una persona mou una capsa de 30kg amb una força de 150N en línia recta sobre una superfície amb un coeficient de fregament dinàmic de 0,4. Considerant g=10m/s2, quina de les següents afirmacions és correcta?.",
+            "respostes": {
+                "a": "La capsa es mou amb una acceleració constant sobre la superfície.",
+                "b": "La capsa es mou amb una acceleració creixent, ja que la força aplicada és més gran que la força de fregament i això resulta en una força neta positiva.",
+                "c": "La capsa, que inicialment està en moviment, disminuirà la seva velocitat fins a parar degut al fregament.",
+                "d": "La capsa es mou amb una velocitat constant sobre la superfície."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 34,
+            "text": "Quina és la força màxima de tracció que pot suportar el fèmur humà considerant que la seva secció és de 9 cm2 i que l'esforç de trencament per tracció d'aquest os és de 17·107 N/m2?",
+            "respostes": {
+                "a": "1,7·10^5 N",
+                "b": "2·10^3 N",
+                "c": "1,53·10^5 N",
+                "d": "El valor depèn de la longitud de l'os."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 35,
+            "text": "El punt de màxim esforç en una corba d'Esforç-Deformació:",
+            "respostes": {
+                "a": "es correspon amb el punt de màxima deformació del material.",
+                "b": "coincideix o és proper al punt de màxima deformació en materials dúctils.",
+                "c": "coincideix o és proper al punt de màxima deformació en materials fràgils.",
+                "d": "coincideix amb el punt de trencament del material."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 36,
+            "text": "Quan un objecte, inicialment neutre, es carrega elèctricament:",
+            "respostes": {
+                "a": "és degut a un desplaçament dels seus electrons, ja sigui per cessió (quan queda carregat positivament), o per guany d'electrons (quan queda carregat negativament).",
+                "b": "és degut a una cessió d'electrons quan queda carregat negativament i a una cessió de protons quan queda carregat positivament.",
+                "c": "és degut a un guany d'electrons quan queda carregat negativament i a un guany de protons quan queda carregat positivament.",
+                "d": "és degut a una cessió d'electrons quan queda carregat positivament i a una cessió de protons quan queda carregat negativament."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 37,
+            "text": "Segons la llei d'Ohm:",
+            "respostes": {
+                "a": "La intensitat de corrent en un circuit elèctric només depèn de la diferència de potencial a que està sotmès, no depèn de la resistència del circuit.",
+                "b": "Per a una diferència de potencial determinada, una disminució en la resistència d'un circuit elèctric, implica una disminució de la intensitat de corrent que hi circula.",
+                "c": "Per a una diferència de potencial determinada, un augment en la resistència d'un circuit elèctric, implica una disminució de la intensitat de corrent que hi circula.",
+                "d": "Per a una diferència de potencial determinada, un augment en la resistència d'un circuit elèctric, implica un augment de la intensitat de corrent que hi circula."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 38,
+            "text": "La radiació és un tipus de transferència de calor mitjançant ...",
+            "respostes": {
+                "a": "ones electromagnètiques.",
+                "b": "ones sonores.",
+                "c": "el moviment del fluid que transporta la calor.",
+                "d": "contacte directe."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 39,
+            "text": "La temperatura, que s'expressa en K, ºC o ºF, és una mesura de ...",
+            "respostes": {
+                "a": "L'energia mecànica d'un cos.",
+                "b": "La capacitat calorífica específica.",
+                "c": "La calor que es transmet d'un cos a un altre.",
+                "d": "L'energia interna d'un cos (energia cinètica mitjana deguda al moviment de les molècules que el formen)."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 40,
+            "text": "Des del terrat d'un edifici es deixen caure dues boles del mateix tamany, una de fusta i l'altra de plom (per tant de diferent massa). Indica quina de les següents afirmacions és correcta:",
+            "respostes": {
+                "a": "Les dues boles tenen la mateixa energia mecànica a l'inici de la caiguda.",
+                "b": "Les dues boles arriben al terra amb la mateixa velocitat.",
+                "c": "Inicialment les dues boles tenen la mateixa energia potencial perquè estan a la mateixa alçada del carrer.",
+                "d": "Les dues boles arriben al carrer amb la mateixa energia cinètica."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 41,
+            "text": "La força de reacció articular ...",
+            "respostes": {
+                "a": "és sempre nul·la.",
+                "b": "té sempre el seu punt d'aplicació en l'articulació i mai exerceix moment.",
+                "c": "apunta sempre cap amunt.",
+                "d": "és sempre d'igual mòdul i contrària al pes del segment articulat."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 42,
+            "text": "En una extensió de turmell (o flexió plantar) sense recolzament a la superfície, la força muscular del tríceps sural es transmet a través del tendó d'Aquiles fent que el peu pivoti sobre l'articulació del turmell. De quin tipus de palanca es trata?",
+            "respostes": {
+                "a": "És una palanca de primer gènere.",
+                "b": "No és cap tipus de palanca.",
+                "c": "És una palanca de tercer gènere.",
+                "d": "És una palanca de segon gènere"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 43,
+            "text": "Una molla s'estira 5cm quan s'hi penja una massa de 1kg. Quin és el valor de la constant elàstica de la molla? (Considereu g=10 m/s2)",
+            "respostes": {
+                "a": "La constant elàstica de la molla és de 2000 N/m.",
+                "b": "La constant elàstica de la molla és de 20 N/m.",
+                "c": "La constant elàstica de la molla és de 200 N/m.",
+                "d": "La constant elàstica de la molla és de 2 N/m."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 44,
+            "text": "La llum de l'infraroig ...",
+            "respostes": {
+                "a": "son ones ones electromagnètiques de molt alta freqüència i longitud d'ona molt curta, propera a la dels raigs X.",
+                "b": "són ones electromàgnètiques amb una longitud d'ona per sota dels 400nm i, per tant, fora del rang visible de l'espectre.",
+                "c": "son ones electromagnètiques que necessiten d'un mitjà per a propagar-se.",
+                "d": "són ones electromàgnètiques amb una longitud d'ona superior als 700nm i, per tant, fora del rang visible de l'espectre."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 45,
+            "text": "Quina de les següents afirmación és INCORRECTA?",
+            "respostes": {
+                "a": "Les ones electromagnètiques són ones transversals.",
+                "b": "El so és una ona mecànica transversal.",
+                "c": "El so és una ona mecànica longitudinal.",
+                "d": "La llum és una ona transversal que es pot propagar en el buit."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 46,
+            "text": "S'agita una corda per un extrem amb una freqüència de 2 Hz i una amplitud de 3 cm. Si la perturbació es propaga amb una velocitat de 0,5 m/s:",
+            "respostes": {
+                "a": "La longitud de l'ona propagada és de 0,5 metres cada segon.",
+                "b": "La longitud de l'ona propagada és de 6 cm, el doble de la seva amplitud.",
+                "c": "L'ona propagada té una longitud d'ona de 25 cm.",
+                "d": "No tenim prou informació per calcular la seva longitud d'ona."
+            },
+            "correcta": "c",
+            "type": "multi"
+        }
+    ]
+}
