@@ -8,7 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.15/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script src="preguntas.js" defer></script>
+    <script src="fisica.js" defer></script>
     <style>
         /* Estilo adicional si es necesario */
     </style>
@@ -25,11 +25,12 @@
         <div id="sidebar" class="hidden w-64 h-screen bg-gray-800 shadow-md">
             <h2 class="text-3xl font-bold text-white text-center my-4">Materias</h2>
             <nav class="text-white text-base font-semibold pt-3">
-                <a href="../fisica2025/index.html" class="flex items-center text-white py-4 pl-6 nav-item active-nav-link hover:bg-gray-700">
+                <a onclick="location.reload();" class="flex items-center text-white py-4 pl-6 nav-item active-nav-link hover:bg-gray-700">
                     Física Aplicada I 2025
                 </a>
+
                 <a href="../fisica2026/index.html" class="flex items-center text-white py-4 pl-6 nav-item active-nav-link hover:bg-gray-700">
-                    Física Aplicada I 2026
+                    Fisica Aplicada I 2026
                 </a>
 
                 <a href="../anatomia/index.html" class="flex items-center text-white py-4 pl-6 nav-item active-nav-link hover:bg-gray-700">
@@ -48,7 +49,7 @@
                     Fisiologia I
                 </a>
 
-                <a onclick="location.reload();" class="flex items-center text-white py-4 pl-6 nav-item active-nav-link hover:bg-gray-700">
+                <a href="../fisiologia3/index.html" class="flex items-center text-white py-4 pl-6 nav-item active-nav-link hover:bg-gray-700">
                     Fisiologia III
                 </a>
             </nav>
@@ -61,8 +62,8 @@
                     <h2 class="text-4xl font-extrabold text-red-500 text-center items-center"> "LA SUERTE ESTA ECHADA" </h2>
                 </div>
 
-                <h2 class="text-3xl font-bold text-center my-4">FISIOLOGIA III</h2>
-                <h1 class="text-2xl md:text-3xl font-bold text-center my-6">Fisiologia III. Preguntas únicas:</h1>
+                <h2 class="text-3xl font-bold text-center my-4">FÍSICA</h2>
+                <h1 class="text-2xl md:text-3xl font-bold text-center my-6">FÍSICA. Preguntas únicas:</h1>
                 <div class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 flex flex-col">
                     <div id="pregunta" class="mb-4 text-lg font-medium"></div>
                     <div id="imagenPregunta" class="mb-4 flex flex-col items-center"></div>
