@@ -337,6 +337,151 @@
             },
             "correcta": "d",
             "type": "multi"
+        },
+        {
+            "id": 29,
+            "text": "Quina de les següents afirmacions NO correspon a un moviment rectilini uniformement accelerat (MRUA)?",
+            "respostes": {
+                "a": "El moviment en caiguda lliure és un MRUA on l'acceleració és l'acceleració de la gravetat",
+                "b": "En temps iguals el mòbil no recórre espais iguals, sino que, a mesura que avança el temps, recórre espais més grans.",
+                "c": "És un moviment amb acceleració constant i trajectòria en línia recta",
+                "d": "El mòbil es mou en línia recta i amb una acceleració que varia de forma constant."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 30,
+            "text": "El desplaçament d'un mòbil...",
+            "respostes": {
+                "a": "és una magnitud escalar que mesura la longitud del recorregut entre la posició inicial i final del mòbil mesurada sobre la trajectòria",
+                "b": "és una magnitud vectorial de mòdul igual a la distància recorreguda pel mòbil",
+                "c": "és una magnitud vectorial que només depèn de la posició inicial i final del mòbil i és independent de la trajectòria.",
+                "d": "és una magnitud escalar que indica la distància recorreguda pel mòbil des de la posició inicial fins la posició final del moviment."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 31,
+            "text": "Per tal que un sistema es trobi en equilibri de rotació s'ha de complir que:",
+            "respostes": {
+                "a": "Totes les forces del sistema siguin zero (nul·les).",
+                "b": "Tots els moments de les forces del sistema siguin zero.",
+                "c": "La suma de tots els moments de força que actuen sobre el sistema doni zero.",
+                "d": "La suma de totes les forces que actuen sobre el sistema doni zero."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 32,
+            "text": "Dos cossos de massa 2kg i 4kg respectivament es deixen caure des d'una mateixa alçada. Si suposem nul·la la resistència de l'aire:",
+            "respostes": {
+                "a": "Ambdós cossos arriben amb la mateixa velocitat al terra.",
+                "b": "El cos de 4kg arriba amb el doble de velocitat al terra.",
+                "c": "Ambdós cossos arriben amb la mateixa energia cinètica al terra.",
+                "d": "Ambdós cossos tenen la mateixa energia potencial a l'inici del moviment."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 33,
+            "text": "Segons les gràfiques A i B donades, els materials que representen són ...",
+            "respostes": {
+                "a": "Gràfica A - material amb mòdul de Young més petit, Gràfica B - material amb mòdul de Young més gran.",
+                "b": "Gràfica A - material plàstic, Gràfica B - material elàstic.",
+                "c": "Gràfica A - material més fràgil, Gràfica B - material més dúctil.",
+                "d": "Gràfica A - material més dúctil, Gràfica B - material més fràgil."
+            },
+            "correcta": "c",
+            "type": "multifoto",
+            "img": "fotos/grafica.png"
+        },
+        {
+            "id": 34,
+            "text": "En un gràfic v-t (velocitat-temps) del moviment d'un mòbil en MRU o MRUA ...",
+            "respostes": {
+                "a": "l'àrea sota la corba entre dos instants de temps és la velocitat mitjana del mòbil en l'interval de temps considerat.",
+                "b": "l'àrea sota la corba entre dos instants de temps és l'acceleració mitjana del mòbil en l'interval de temps considerat.",
+                "c": "el pendent de la recta que uneix dos punts és el valor de l'acceleració mitjana en l'interval de temps considerat",
+                "d": "el pendent de la recta que uneix dos punts és el valor de la velocitat mitjana en l'interval de temps considerat."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 35,
+            "text": "Quina de les següents afirmación és INCORRECTA?",
+            "respostes": {
+                "a": "El so és una ona mecànica longitudinal",
+                "b": "El so és una ona mecànica transversal.",
+                "c": "Les ones electromagnètiques són ones transversals.",
+                "d": "La llum és una ona transversal que es pot propagar en el buit."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 36,
+            "text": "Segons la primera llei de Newton (suposant que no hi ha fregament):",
+            "respostes": {
+                "a": "Si un cos exerceix una força sobre un altre, aquest exercirà una força sobre el primer d'igual mòdul i direcció, però de sentit oposat",
+                "b": "Dos cossos s'atrauen amb una força directament proporcional al producte de les seves masses i inversament proporcional al quadrat de la distància que els separa",
+                "c": "En absència de força neta, un cos mantindrà el seu estat de repòs o seguirà movent-se a velocitat constant",
+                "d": "En absència de força neta, un cos movent-se a velocitat constant, deixarà de moure's."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 37,
+            "text": "La transferència de càrrega entre dos cossos per contacte ...",
+            "respostes": {
+                "a": "produeix un flux de càrrega negativa entre els cossos fins a quedar tots dos amb la mateixa càrrega (positiva o negativa), de tal manera que un cop equilibrada la càrrega, s'atrauran",
+                "b": "produeix una redistribució de la càrrega en els cossos, de tal manera que queden neutres però polaritzats",
+                "c": "produeix un flux de càrrega negativa entre els cossos fins a quedar tots dos amb la mateixa càrrega (positiva o negativa), de tal manera que un cop equilibrada la càrrega, es repeleran",
+                "d": "produeix un flux de càrrega negativa entre els cossos fins a quedar tots dos neutralitzats"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 38,
+            "text": "El centre de gravetat del cos humà en moviment ...",
+            "respostes": {
+                "a": "es situa en un punt situat aproximadament davant de la vèrtebra lumbar L5, variant lleugerament la seva posició d'una persona a una altra independentment de la postura adoptada.",
+                "b": "canvia de posició de forma dinàmica amb el moviment podent-se situar fora del cos depenent de la postura adoptada.",
+                "c": "es situa en un punt determinat independentment de la postura adoptada, variant lleugerament la seva posició d'una persona a una altra segons la constitució, edat i sexe.",
+                "d": "varia la seva posició de forma dinàmica amb el moviment mantenint-se sempre dins el cos."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 39,
+            "text": "Donat un vector de components (-4, 4), quina de les següents afirmacions és la correcta?",
+            "respostes": {
+                "a": "El vector donat té mòdul 5,66 i forma un àngle de 45º amb l'eix horitzontal",
+                "b": "El vector donat té mòdul 4.",
+                "c": "El vector donat té mòdul 5,66 i forma un àngle de 135º amb l'eix horitzontal.",
+                "d": "El vector donat és nul, les seves components s'eliminen"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 40,
+            "text": "Suposant que la resistència mitjana del cos humà és de 1990 ohms, calcula la intensitat del corrent per a una diferència de potencial de 220 volts utilitzant la llei d'Ohm.",
+            "respostes": {
+                "a": "11 ampers",
+                "b": "9 ampers",
+                "c": "110 mA",
+                "d": "200 mA"
+            },
+            "correcta": "c",
+            "type": "multi"
         }
     ]
 }
