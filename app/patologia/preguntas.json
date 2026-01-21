@@ -1,0 +1,544 @@
+{
+    "preguntes": [
+        {
+            "id": 1,
+            "text": "En el tractament del Parkinson",
+            "respostes": {
+                "a": "Mai s'utilitza una pauta conjunta de L-Dopa amb un inhibidor de la LAAD perifèrica",
+                "b": "La domperidona és un antagonista dopaminèrgic perifèric que s'administra conjuntament amb fàrmacs agonistes dopaminèrgics\nper evitar l'aparició d'efectes adversos.",
+                "c": "S'administra dopamina per la seva capacitat de travessar la barrera hematoencefàlica",
+                "d": "Totes les respostes plantejades són correctes."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 2,
+            "text": "El propranolol:",
+            "respostes": {
+                "a": "És un beta bloquejant.",
+                "b": "Totes les respostes plantejades són correctes.",
+                "c": "La seva retirada ha de ser gradual.",
+                "d": "Es pot utilitzar com ansiolític tot i que no actua directament sobre els mecanismes cerebrals de l'ansietat."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 3,
+            "text": "Els denominats Antiinflamatoris no esteroidals (AINE):",
+            "respostes": {
+                "a": "Actuen selectivament inhibint la COX-1, fet que els hi confereix propietats com a antiinflamatoris, antipirètics i analgèsics.",
+                "b": "Per evitar efectes adversos digestius sempre es pautaran AINES amb inhibidors de la bomba de protons",
+                "c": "Etoricoxib pertany a aquesta família de fàrmacs.",
+                "d": "Metamizol pertany a aquesta família de fàrmacs."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 4,
+            "text": "Amb relació a l'àcid acetil salicílic:",
+            "respostes": {
+                "a": "A dosis de 100 mg es pot veure prescrit pel seu efecte antiagregant plaquetari.",
+                "b": "A dosis de 1000 mg es pot veure prescrit pel seu efecte antiagregant plaquetari.",
+                "c": "Si es troba prescrit a dosis de 500 mg juntament amb ibuprofèn no es considera una duplicitat terapèutica.",
+                "d": "Cap de les respostes plantejades és correcta."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 5,
+            "text": "Amb relació als fàrmacs analgèsics opioides",
+            "respostes": {
+                "a": "El fentanil forma part d'aquesta família de fàrmacs i es considera un opioide menor.",
+                "b": "Hi ha un antídot per revertir quadres d'intoxicació i és la naloxona.",
+                "c": "La seva administració produeix fenòmens de dependència però no de tolerància.",
+                "d": "S'aconsella el seu ús conjuntament amb fàrmacs que disminueixin la motilitat gastrointestinal."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 6,
+            "text": "Quin dels següents fàrmacs té propietats com anticoagulant oral i es caracteritza per ser altament selectiu, ja que inhibeix directament el factor Xa de la coagulació:",
+            "respostes": {
+                "a": "Acenocumarol.",
+                "b": "Apixaban.",
+                "c": "Dalteparina.",
+                "d": "Warfarina."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 7,
+            "text": "La semaglutida:",
+            "respostes": {
+                "a": "Està indicada pel tractament de la diabetis mellitus tipus 2 que no ha estat controlada adequadament o quan la metformina ha produït intoleràncies.",
+                "b": "No requereix la realització de controls de glucèmia.",
+                "c": "Es pot administrar per via subcutània.",
+                "d": "Totes les respostes plantejades són correctes."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 8,
+            "text": "Quin dels següents fàrmacs actua com antagonista dels receptors H2 i s'utilitza per les seves propietats per disminuir la secreció gàstrica",
+            "respostes": {
+                "a": "Omeprazol.",
+                "b": "Misoprostol.",
+                "c": "Bicarbonat sòdic.",
+                "d": "Ranitidina."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 9,
+            "text": "Quina de les següents relacions NO és correcta",
+            "respostes": {
+                "a": "Salbutamol-agonista beta2 d'acció curta.",
+                "b": "Bromur d'ipratropi- anticolinèrgic.",
+                "c": "Teofilina- metilxantina.",
+                "d": "Montelukast-glucocorticoide."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 10,
+            "text": "L'àcid alendrònic:",
+            "respostes": {
+                "a": "S'utilitza per al tractament de l'osteoporosi ja que és un potent inhibidor de la resorció òssia.",
+                "b": "Es recomana la seva administració al vespre, abans d'anar a dormir.",
+                "c": "Totes les respostes plantejades són correctes.",
+                "d": "No es recomana la seva administració conjunta amb calci o vitamina D."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 11,
+            "text": "Quina de les següents afirmacions no és correcta?",
+            "respostes": {
+                "a": "Els medicaments genèrics han de ser bioequivalents amb el medicament de referència, és a dir, tenir biodisponibilitat similar.",
+                "b": "El document de caràcter sanitari mitjançant el qual els fisioterapeutes indiquen la dispensació de medicaments i productes sanitaris en oficina de farmàcia és l'ordre de dispensació.",
+                "c": "L'agència reguladora que s'encarrega d'autoritzar la comercialització de medicaments en l'àmbit nacional espanyol és la FDA (administració d'aliments i fàrmacs).",
+                "d": "El símbol a l'envàs d'un medicament indica que el medicament en qüestió és un psicòtrop."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 12,
+            "text": "Quina de les següents afirmacions NO és correcta:",
+            "respostes": {
+                "a": "Enalapril és un inhibidor de l'enzim convertidor d'angiotensina que pot produir tos per el cúmul de bradicinina.",
+                "b": "El valsartan és un antagonista del receptor de l'angiotensina II utilitzat pel tractament de la hipertensió arterial",
+                "c": "Quan s'administra amilorida s'han d'administrar suplements de potassi per evitar complicacions cardiovasculars.",
+                "d": "L'amlodipina és un antagonista del calci."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 13,
+            "text": "Amb relació a la farmacocinètica:",
+            "respostes": {
+                "a": "Estudia els mecanismes d'acció dels fàrmacs, així com els seus efectes sobre els diferents aparells, sistemes i òrgans.",
+                "b": "La via sublingual és una de les vies més susceptibles de patir el fenomen d'efecte de primer pas hepàtic.",
+                "c": "El procés d'absorció de fàrmacs per via intramuscular és més ràpid que el procés d'absorció de fàrmacs per via subcutània.",
+                "d": "Cap de les respostes plantejades és correcta.."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 14,
+            "text": "Amb relació a l'eliminació de fàrmacs:",
+            "respostes": {
+              "a": "El metabolisme es produeix principalment al ronyó.",
+              "b": "L'excreció es produeix principalment al fetge.",
+              "c": "Els anomenats inductors enzimàtics poden produir interaccions en el metabolisme dels fàrmacs augmentant l'efecte esperat d'aquests.",
+              "d": "El metabolisme és un procés de biotransformació a on els fàrmacs es transformen en molècules més hidrosolubles i, per tant, més fàcilment eliminables"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 15,
+            "text": "Amb relació als tipus de fàrmacs:",
+            "respostes": {
+              "a": "Un fàrmac agonista és aquell que s'uneix al receptor i bloqueja l'acció del mediador endogen.",
+              "b": "Un fàrmac antagonista és aquell que s'uneix al receptor i produeix l'efecte contrari al del mediador endogen.",
+              "c": "Els fàrmacs antagonistes no tenen interès terapèutic.",
+              "d": "L'activitat intrínseca (alfa) d'un fàrmac agonista parcial és superior a 0 i inferior a 1 (considerant que la del lligand endogen és 1)."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 16,
+            "text": "Amb relació a les reaccions adverses medicamentoses:",
+            "respostes": {
+              "a": "Les de tipus A són comuns, estan relacionades amb el mecanisme d'acció dels fàrmacs i normalment són de baixa mortalitat.",
+              "b": "Les de tipus B són poc comuns, no estan relacionades amb el mecanisme d'acció dels fàrmacs i normalment són d'elevada mortalitat.",
+              "c": "Totes les respostes proposades són correctes.",
+              "d": "Les de tipus D es fan evidents passat un temps després del tractament."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 17,
+            "text": "Amb relació a les interaccions farmacològiques:",
+            "respostes": {
+                "a": "Una interacció es considera sinèrgica directa quan el resultat és un augment de l'efecte mitjançant el mateix mecanisme d'acció.",
+                "b": "Una interacció es considera sinèrgica indirecta quan el resultat és un augment de l'efecte mitjançant el mateix mecanisme d'acció.",
+                "c": "Hi ha fàrmacs com l'acenocumarol que es caracteritzen per no patir pràcticament interaccions a nivell farmacocinètic.",
+                "d": "Cap de les respostes plantejades és correcta"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 18,
+            "text": "Quina de les següents relacions fàrmac-receptor NO és correcta:",
+            "respostes": {
+                "a": "Fàrmacs agonistes colinèrgics- receptors muscarínics",
+                "b": "Fàrmacs antagonistes serotoninèrgics- receptors 5HT",
+                "c": "Fàrmacs agonistes adrenèrgics- receptors alfa.",
+                "d": "Fàrmacs antagonistes dopaminèrgics- receptors beta."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 19,
+            "text": "Quin dels següents fàrmacs NO és una benzodiazepina:",
+            "respostes": {
+                "a": "Flumazenil.",
+                "b": "Alprazolam.",
+                "c": "Clorazepat dipotàssic.",
+                "d": "Diazepam."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 20,
+            "text": "Quin dels següents fàrmacs es considera un antipsicòtic típic:",
+            "respostes": {
+                "a": "Paliperidona.",
+                "b": "Olanzapina.",
+                "c": "Risperidona.",
+                "d": "Haloperidol."
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 21,
+            "text": "Dona de 32 anys que presenta episodis recurrents de dolor articular les últimes setmanes. Reereix fatiga intensa i lesions eritematoses a la cara que empitjoren amb l’exposició solar. A més, ha tingut febre de baix grau i dispnea ocasional. A l’exploració s’observa inflamació lleu en articulacions de mans i genolls, així com petites úlceres orals. Les proves de laboratori mostren elevació de marcadors inflamatoris i anèmia. Quin seria el diagnòstic?",
+            "respostes": {
+                "a": "Artritis reumatoide",
+                "b": "Lupus eritematós sistèmic",
+                "c": "Síndrome de Sjögren",
+                "d": "Dermatomiositis"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 22,
+            "text": "Quina de les següents afirmacions sobre la polimiàlgia reumàtica és correcta?",
+            "respostes": {
+                "a": "És una malaltia inflamatòria primària del teixit muscular",
+                "b": "Produeix dolor i rigidesa al coll i cintures escapular i pelviana",
+                "c": "Afecta únicament articulacions distals com mans i peus",
+                "d": "Resolució ràpida dels símptomes amb dosis altes de glucocorticoides"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 23,
+            "text": "En l’espondilitis anquilosant, a nivell radiològic a la columna lumbar podem observar:",
+            "respostes": {
+                "a": "Vèrtebra en barril",
+                "b": "Sindesmòfits",
+                "c": "Columna en canya de bambú",
+                "d": "Totes són correctes"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 24,
+            "text": "Assenyala la resposta correcta sobre la fisiopatologia de la gota",
+            "respostes": {
+                "a": "El dipòsit de cristalls es produeix de forma espontània i no depèn de cap factor",
+                "b": "Els cristalls es formen fora de la càpsula articular",
+                "c": "Els cristalls es formen en la superfície del cartílag hialí",
+                "d": "Els cristalls es alliberen a la sang"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 25,
+            "text": "Assenyala la resposta correcta sobre signes de mal pronòstic en l’artritis sèptica",
+            "respostes": {
+                "a": "Retards superiors a una setmana en l’inici del tractament",
+                "b": "Negativitat dels cultius més enllà de 6 dies de l’inici de l’antibioteràpia",
+                "c": "Menors de 65 anys",
+                "d": "Afectació del turmell"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 26,
+            "text": "Quina de les següents afirmacions descriu correctament l’artropatia hemofílica?",
+            "respostes": {
+                "a": "És una lesió articular reversible produïda per un únic episodi d’hemorràgia intraarticular",
+                "b": "Consisteix en una lesió articular progressiva i crònica causada per hemorràgies repetides dins de l’articulació com a conseqüència de la hemofília",
+                "c": "Es caracteritza per inflamació muscular secundària a hematomes recurrents",
+                "d": "És una afectació articular exclusivament infecciosa relacionada amb la hemofília"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 27,
+            "text": "Què indica una Velocitat de Sedimentació Globular (VSG) augmentada?",
+            "respostes": {
+                "a": "Procés inflamatori",
+                "b": "Procés degeneratiu",
+                "c": "És normal a partir dels 30 anys",
+                "d": "És normal a partir dels 40 anys"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 28,
+            "text": "Quin dels següents és un signe radiològic de l’artrosi?",
+            "respostes": {
+                "a": "Sindesmòfits",
+                "b": "Augment de la interlínia articular",
+                "c": "Esclerosi de l’os subcondral.",
+                "d": "Osteoporosi"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 29,
+            "text": "El dolor més característic de la coxartrosi es localitza a…",
+            "respostes": {
+                "a": "L'engonal",
+                "b": "El genoll",
+                "c": "El turmell",
+                "d": "La cuixa"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 30,
+            "text": "Quin d’aquests signes o símptomes és característic de la neuràlgia cervicobraquial?",
+            "respostes": {
+                "a": "Hiperreflexia en membres superiors",
+                "b": "Dolor cervical que irradia als membres superiors",
+                "c": "Hipertonia muscular generalitzada",
+                "d": "Augment de força en la musculatura cervical"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 31,
+            "text": "Assenyala la resposta INCORRECTA sobre els objectius del tractament en la fibromiàlgia",
+            "respostes": {
+                "a": "El tractament és simptomàtic",
+                "b": "Es busca reduir el dolor",
+                "c": "La fibromiàlgia pot resoldre’s completament amb tractament",
+                "d": "Es busca augmentar la qualitat de vida"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 32,
+            "text": "Assenyala la resposta INCORRECTA respecte als troballes radiològics en una distròfia simpàtico-reflexa",
+            "respostes": {
+                "a": "Disminució de l’espai articular",
+                "b": "Augment de parts toves",
+                "c": "Osteoporosi subcondral",
+                "d": "Inici d’osteopènia difusa"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 33,
+            "text": "La tècnica de proves complementàries que ens permet mesurar la densitat mineral òssia s’anomena…",
+            "respostes": {
+                "a": "Radiografia",
+                "b": "Ressonància magnètica",
+                "c": "Densitometria òssia",
+                "d": "Gammagrafia òssia"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 34,
+            "text": "Dins de les manifestacions articulars de l’artritis reumatoide es troben…",
+            "respostes": {
+                "a": "Dolor articular",
+                "b": "Unilateral i poliarticular",
+                "c": "En el 60% dels pacients inicia amb inflamació en genolls",
+                "d": "Major afectació en regió dorsal i lumbar"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 35,
+            "text": "Quin d’aquests és un predictor de mal pronòstic en l’artritis reumatoide?",
+            "respostes": {
+                "a": "Afectació de múltiples articulacions",
+                "b": "Afectació tardana de grans articulacions",
+                "c": "Absència de factor reumatoide",
+                "d": "Iniciar el tractament farmacològic de forma precoç"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 36,
+            "text": "Senyala la resposta correcte:",
+            "respostes": {
+                "a": "El lligament creuat anterior es pot suturar",
+                "b": "La lesió del lligament colateral medial en la majoria de casos el tractament ha de ser quirúrgic",
+                "c": "La lesió del lligament creuat posterior el tractament sempre ha de ser quirúrgic",
+                "d": "El lligament creuat anterior ens dona estabilitat anteroposterior i rotacional del genoll"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 37,
+            "text": "Senyala la resposta correcte:",
+            "respostes": {
+                "a": "El menisc extern correspon al compartiment de càrrega del genoll",
+                "b": "El gest luxant d'una pròtesis de maluc operada per via anterolateral o de hardinger, és una rotació interna forçada",
+                "c": "El gest luxant d'una pròtesis de maluc operada per via posterior és una rotació interna forçada",
+                "d": "La ruptura del menisc intern al pertanyer al compartiment de càrrega sempre es pot suturar"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 38,
+            "text": "Senyala la resposta falsa:",
+            "respostes": {
+                "a": "El pacient que arriba a l'hospital per operarse d'una cirurgia programada ingresa per la zona negra",
+                "b": "La principal complicació de les fractures diafisàries d'húmer es la lesió del nervi radial",
+                "c": "A les fractures de calcani majoritàriament es realitza tractament quirúrgic",
+                "d": "El Check List entre altres coses verifica la identitat de la persona, el procediment quirúrgic i la seva ubicació"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 39,
+            "text": "Quin risc NO tindria una pacient de 50 anys amb una fractura de l'extrem distal del radi?",
+            "respostes": {
+                "a": "Epifisiodesi",
+                "b": "Síndrome de dolor regional complex",
+                "c": "Consolidació en mala posició",
+                "d": "Artrosi post traumàtica"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 40,
+            "text": "Quines són les estratègies de raonament diagnòstic?",
+            "respostes": {
+                "a": "Deductiva, inductiva i abductiva",
+                "b": "Analítica, sintètica i holística",
+                "c": "Probabilística, causal i determinística",
+                "d": "Hipotètica, experimental i observacional"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 41,
+            "text": "Senyala la resposta correcte:",
+            "respostes": {
+                "a": "Una de les recomanacions que es dóna als pacients post cirurgia protèssica de genoll, és que pugi i baixi escales quantes més vegades al dia millor, que això l'ajudarà agafar força",
+                "b": "La complicació habitual de les fractures diafisàries d'húmer és una lesió del nervi mitjà",
+                "c": "L'osteoma osteoide és un tumor benigne del teixit ossi, però dolorós",
+                "d": "En la microruptura fibrilar o elongació, hi ha alteració de poques fibres i molta afectació del teixit connectiu i el pronòstic es de 4 a 6 setmanes"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 42,
+            "text": "En el càlcul de la gravetat de les cremades:",
+            "respostes": {
+                "a": "Per a calcular el TBSA (Total Body Surface Area) la regla de la palma de la mà considera que la palma de la mà correspon a un 5% de la superfície corporal",
+                "b": "El procediment s’inicia amb el càlcul de la quantitat de pell cremada",
+                "c": "L’escala de Glasgow analitza la severitat de la cremada, quant a la profunditat i a la seva extensió",
+                "d": "Per a calcular el TBSA (Total Body Surface Area) mitjançant la regla dels 9 de Wallace es considera un cremat greu si afecta més d’un 15% de la superfície corporal"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 43,
+            "text": "Quins tipus de factors de risc hi ha?",
+            "respostes": {
+                "a": "Conductuals, fisiològics, demogràfics, mediambientals, genètics.",
+                "b": "Alimentaris, psicològics, histològics, endocrins, anatòmics.",
+                "c": "Nutricionals, farmacològics, estètics, emocionals, climatològics.",
+                "d": "Musculoesquelètics, sensorials, metabòlics, terapèutics, socials."
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 44,
+            "text": "Quines mesures adoptaries per tal d’evitar una absència de consolidació en el postoperatori d’un pacient que ha estat intervingut amb un clau endomedul·lar de tíbia per una fractura diafisària?",
+            "respostes": {
+                "a": "Càrrega controlada precoç",
+                "b": "No fumar",
+                "c": "Controlar adequadament possibles factors de risc cardiovascular",
+                "d": "Totes són correctes"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 45,
+            "text": "Respecte les fractures de l’extremitat superior, quina de les següents afirmacions consideres correcta?",
+            "respostes": {
+                "a": "Les fractures de l’escafoides carpià tenen un risc particular de desenvolupar una necrosi avascular.",
+                "b": "Les fractures d’olècranon poden tractar-se de forma conservadora o bé quirúrgica en funció del grau de desplaçament i de la funcionalitat del pacient",
+                "c": "La pròtesi de cap del radi està indicada en fractures impossibles de reconstruir i amb lesió de la membrana interòssia o bé amb una luxació de colze associada.",
+                "d": "Totes són correctes."
+            },
+            "correcta": "d",
+            "type": "multi"
+        }
+    ]
+}
