@@ -501,7 +501,7 @@
                 "c": "L’escala de Glasgow analitza la severitat de la cremada, quant a la profunditat i a la seva extensió",
                 "d": "Per a calcular el TBSA (Total Body Surface Area) mitjançant la regla dels 9 de Wallace es considera un cremat greu si afecta més d’un 15% de la superfície corporal"
             },
-            "correcta": "c",
+            "correcta": "d",
             "type": "multi"
         },
         {
