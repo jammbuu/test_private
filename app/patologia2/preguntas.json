@@ -1,0 +1,633 @@
+{
+    "preguntes": [
+        {
+            "id": 1,
+            "text": "Quina de les següents estructures NO forma part de la línia innominada?",
+            "respostes": {
+                "a": "Promontori sacre",
+                "b": "Eminència iliopúbica",
+                "c": "Espina ciàtica",
+                "d": "Branca superior del pubis"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 2,
+            "text": "Durant la fase de buidament vesical, quina combinació és correcta?",
+            "respostes": {
+                "a": "Detrusor en contracció, uretra relaxada i esfínters relaxats",
+                "b": "Detrusor relaxat, uretra en contracció i esfínters en contracció",
+                "c": "Detrusor en contracció, uretra relaxada i esfínters en contracció",
+                "d": "Detrusor, uretra i esfínters relaxats"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 3,
+            "text": "Quin és el requisit imprescindible perquè l'electroestimulació sigui efectiva en el tractament de la incontinència urinària?",
+            "respostes": {
+                "a": "Integritat del sistema simpàtic toracolumbar",
+                "b": "Presència d'hipermobilitat uretral",
+                "c": "Integritat de l'arc reflex espinal",
+                "d": "Absència de contraccions del detrusor"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 4,
+            "text": "Quan en una manometria anorrectal es pot veure una pressió de contracció dèbil i una pressió en repòs normal, quin és el diagnòstic més probable?",
+            "respostes": {
+                "a": "Disfunció de l'esfínter anal intern",
+                "b": "Disfunció de l'esfínter anal extern",
+                "c": "Alteració de la compliance rectal",
+                "d": "Hiperactivitat rectal"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 5,
+            "text": "Quina és la principal diferència entre el sistema de classificació Baden-Walker i el sistema POP-Q?",
+            "respostes": {
+                "a": "Baden-Walker utilitza punts anatòmics espeífics (Aa, Ba, C, D, Ap, Bp) i POP-Q fa una gradació dels prolapses (Grau 0, I, II, III, IV)",
+                "b": "Baden-Walker, a diferència de POP-Q, ens permet monitoritzar l'evolució del tractament.",
+                "c": "Baden-Walker és una avaluació visual subjectiva i POP-Q és un sistema estandaritzat i reproductible",
+                "d": "POP-Q, a diferència de Baden-Walker, és més ràpid i senzill d'aplicar."
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 6,
+            "text": "Quin model de resposta sexual femenina es descriu com a no lineal i centrat en el context relacional?",
+            "respostes": {
+                "a": "Masters i Johnson",
+                "b": "Kaplan",
+                "c": "Schanarch",
+                "d": "Basso"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 7,
+            "text": "Quina és la presentació fetal més freqüent i considerada fisiològica per al part vaginal a terme?",
+            "respostes": {
+                "a": "Presentació cefàlica occipito anterior",
+                "b": "Presentació de natges completa",
+                "c": "Presentació de cara en posició mentó anterior",
+                "d": "Presentació cefàlica occipito transversa"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 8,
+            "text": "Quina de les següents lesions perineals es considera de tercer grau?",
+            "respostes": {
+                "a": "Afectació dels músculs perineals superficials i profunds",
+                "b": "Afectació superficial que no requereix sutura",
+                "c": "Afectació de l'esfínter anal",
+                "d": "Afectació de l'esfínter anal i mucosa rectal"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 9,
+            "text": "Quin és el signe clínic més característic del síndrome cerebel·lós?",
+            "respostes": {
+                "a": "Paràlisi facial.",
+                "b": "Atàxia.",
+                "c": "Disàrtria espàstica",
+                "d": "Bradicinèsia."
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 10,
+            "text": "Quin dels següents símptomes es relaciona amb lesions dels hemisferis cerebel·losos?",
+            "respostes": {
+                "a": "Nistagme",
+                "b": "Dismetria",
+                "c": "Hipoacúsia",
+                "d": "Rigidesa"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 11,
+            "text": "Quina prova s'utilitza per detectar disdiadococinèsia?",
+            "respostes": {
+                "a": "Moviments alternants ràpids",
+                "b": "Romberg",
+                "c": "Índex-nas",
+                "d": "Taló-genoll"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 12,
+            "text": "Quin és un símptoma positiu del síndrome de la motoneurona superior?",
+            "respostes": {
+                "a": "Debilitat muscular",
+                "b": "Fatigabilitat",
+                "c": "Clonus",
+                "d": "Paràlisi"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 13,
+            "text": "Quina és la resposta normal al reflex cutani plantar en un pacient sa?",
+            "respostes": {
+                "a": "Flexió de tots els dits del peu",
+                "b": "Extensió del primer dit",
+                "c": "Absència de moviment",
+                "d": "Inversió del reflex cutani abdominal"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 14,
+            "text": "Quina és la causa més habitual de demència, representant entre el 50% i el 80% dels casos?",
+            "respostes": {
+              "a": "Demència vascular",
+              "b": "Demència amb cossos de Lewy",
+              "c": "Malaltia d'Alzheimer",
+              "d": "Demència frontotemporal"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 15,
+            "text": "Quin és un exemple de demència reversible o tractable segons la classificació?",
+            "respostes": {
+              "a": "Malaltia de Pick.",
+              "b": "Malaltia de Parkinson",
+              "c": "Hidrocefàlia normotensiva",
+              "d": "Malaltia de Creutzfeldt-Jakob"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 16,
+            "text": "Quina és la causa més freqüent de lesió medul·lar (LM) traumàtica en persones majors de 60 anys?",
+            "respostes": {
+              "a": "Accidents de trànsit",
+              "b": "Caigudes",
+              "c": "Violència",
+              "d": "Esports"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 17,
+            "text": "Com es denomina el quadre de pèrdua de força i sensibilitat profunda ipsilateral amb pèrdua termoalgèsica contralateral?",
+            "respostes": {
+                "a": "Síndrome de Schneider",
+                "b": "Síndrome de Brown-Séquard",
+                "c": "Síndrome de l'artèria espinal anterior",
+                "d": "Síndrome de cua de cavall"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 18,
+            "text": "Quina és la principal causa de mort en pacients amb lesió medul·lar tant en el primer any com posteriorment?",
+            "respostes": {
+                "a": "Escares",
+                "b": "Infecció urinària",
+                "c": "Malalties de l'aparell respiratori (pneumònia)",
+                "d": "Suïcidi"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 19,
+            "text": "Què és el shock medul·lar?",
+            "respostes": {
+                "a": "Una lesió permanent per tall de la medul·la",
+                "b": "Supressió transitòria de l'activitat reflexa per sota de la lesió.",
+                "c": "Una baixada de tensió arterial per pèrdua de sang",
+                "d": "L'efecte de l'anestèsia en la cirurgia"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 20,
+            "text": "Quina és la causa més freqüent de discapacitat no traumàtica en adults joves?",
+            "respostes": {
+                "a": "L'accident cerebrovascular.",
+                "b": "La lesió medul·lar traumàtica",
+                "c": "L'esclerosi múltiple",
+                "d": "L'artritis reumatoide"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 21,
+            "text": "Què sol caracteritzar l'evolució de l'EM en els homes afectats?",
+            "respostes": {
+                "a": "Una evolució més agressiva i un desenvolupament més ràpid de discapacitat",
+                "b": "Una millor recuperació després de les crisis",
+                "c": "Una edat de diagnòstic més primerenca que en les dones",
+                "d": "No presenten mai formes progressives"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 22,
+            "text": "Què és l'heminegligència?",
+            "respostes": {
+                "a": "Una paràlisi de les cames",
+                "b": "La manca d'atenció o resposta a estímuls en el costat oposat a la lesió",
+                "c": "No poder llegir",
+                "d": "Perdre el sentit de l'olfacte"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 23,
+            "text": "Quina escala s'utilitza habitualment per mesurar la gravetat de l'ictus en la fase aguda?",
+            "respostes": {
+                "a": "Escala de Glasgow",
+                "b": "Escala NIHSS",
+                "c": "Escala de Barthel",
+                "d": "Escala de Tinetti"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 24,
+            "text": "Com es denomina la dificultat per articular paraules per falta de control muscular?",
+            "respostes": {
+                "a": "Afàsia",
+                "b": "Disàrtria",
+                "c": "Atàxia",
+                "d": "Apràxia"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 25,
+            "text": "La marxa anserina o d’ánec per debiltat dels estabilitzadors de la pelvis es típica d'aquesta malaltia:",
+            "respostes": {
+                "a": "Esclerosi Múltiple",
+                "b": "Poliomielitis",
+                "c": "Distrofies musculars",
+                "d": "Ictus hemorràgic"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 26,
+            "text": "Quina de les següents afirmacions es falsa?",
+            "respostes": {
+                "a": "Els tumors cerebrals spn lleugerament mes freqüents en homes que en dones",
+                "b": "Només els glioblastomes son mes freqüents en les dones",
+                "c": "Poden desenvolupar-se a qualsevol edat",
+                "d": "A mesura que la població envelleix, el glioblastoma es cada vegada mes freqüent en persones grans"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 27,
+            "text": "Assenyala la correcta sobre la ECO",
+            "respostes": {
+                "a": "A una ECO Doppler veiem el flux sanguini, vermell quan s'allunya del transductor i blau quan s'apropa",
+                "b": "Pot ser que fent la prova sobre vassos sanguinis, al comprimir-los un d'ells desaparegui, l'arteria",
+                "c": "Quan es fa una valoració a una cavitat aèria, el transductor com no troba una estructura per recrear la imatge, se la inventa creant artefactes",
+                "d": "Totes són certes"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 28,
+            "text": "Assenyala la incorrecta sobre les propietats del Raigs X",
+            "respostes": {
+                "a": "Longitud d'ona molt curta",
+                "b": "Provoquen fluorescència de certes substàncies",
+                "c": "Afecten les pel·lícules radiogràfiques",
+                "d": "Són radiacions no-ionitzants"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 29,
+            "text": "Qué es pot observar?",
+            "respostes": {
+                "a": "Una Rx AP",
+                "b": "Una patologia única a l'hemitòrax esquerre del pacient",
+                "c": "Dues patologies a l'hemitòrax dret del pacient",
+                "d": "Una patologia única a la esquerra de la imatge"
+            },
+            "correcta": "c",
+            "type": "multifoto",
+            "img": "fotos/hermitorax.png"
+        },
+        {
+            "id": 30,
+            "text": "Quina afirmació és més certa?",
+            "respostes": {
+                "a": "La imatge, tot i que no es pot precissar el  nivell, pertany a la cintura escapular",
+                "b": "Es pot observar les conseqüències d'un traumatisme amb fractura a nivell esternal",
+                "c": "Dues són certes",
+                "d": "Podria semblar una alteració a nivell umbilical, tot i que sense més informació, és difícil entendre les imatges blanques a aquesta zona"
+            },
+            "correcta": "d",
+            "type": "multifoto",
+            "img": "fotos/alteracio.png"
+        },
+        {
+            "id": 31,
+            "text": "Quina afirmació és la més aproximada en quant al PET?",
+            "respostes": {
+                "a": "És la prova d'elecció per observar anatomia",
+                "b": "Entre les seves utilitats, serveix per detectar cèl·lules i masses canceroses",
+                "c": "Prova que no aporta informació en neurologia",
+                "d": "Totes són falses"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 32,
+            "text": "Assenyala la resposta correcta",
+            "respostes": {
+                "a": "La imatge correspon a una massa visualitzada en TC",
+                "b": "Es pot veure una estructura anecoica amb reforç posterior",
+                "c": "La imatge correspon a una ECO on es veu una massa amb reforç anterior",
+                "d": "Totes són falses"
+            },
+            "correcta": "b",
+            "type": "multifoto",
+            "img": "fotos/prova.png"
+        },
+        {
+            "id": 33,
+            "text": "Quins beneficis aporta la ECO per tal de poder-la fer servir a consulta sense la supervisió d'un metge?",
+            "respostes": {
+                "a": "No fa servir radiació ionitzant",
+                "b": "És una bona eina per fer diagnòstic de patologia osteomuscular",
+                "c": "Les dues són certes",
+                "d": "Les dues son falses"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 34,
+            "text": "Quin tipus d'imatge és?",
+            "respostes": {
+                "a": "Rx",
+                "b": "ECO",
+                "c": "TC",
+                "d": "RM"
+            },
+            "correcta": "d",
+            "type": "multifoto",
+            "img": "fotos/mri.png"
+        },
+        {
+            "id": 35,
+            "text": "Assenyala la correcta",
+            "respostes": {
+                "a": "En T1 es veu hiperintens el greix, l'os medul·lar, substància blanca del SNC i teixit lipídic",
+                "b": "En T2 es veu hipointens l'aigua i la substància gris",
+                "c": "En T1* es veu en blanc el teixit amb susceptibilitat metàl·lica que serien hemorràgies",
+                "d": "En T2 hipointens veiem el LCR"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 36,
+            "text": "Quina afirmació és més certa?",
+            "respostes": {
+                "a": "Tenint en compte el tipus de prova que és, es podria rebutjar per no ser metodològicament correcta",
+                "b": "Hi ha afectació a ambdós hemitòraxs",
+                "c": "Una imatge anatòmica sense patologia",
+                "d": "Dues són correctes"
+            },
+            "correcta": "d",
+            "type": "multifoto",
+            "img": "fotos/hermitorax2.png"
+        },
+        {
+            "id": 37,
+            "text": "Quina característica defineix l’angina estable?",
+            "respostes": {
+                "a": "Dolor toràcic amb esforç que cedeix amb el repòs o nitrats",
+                "b": "Dolor toràcic sobtat en repòs prolongat",
+                "c": "Dolor associat a febre i tos",
+                "d": "Dolor que empitjora amb la inspiració profunda"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 38,
+            "text": "Quina és la prova diagnòstica bàsica per confirmar una arrítmia cardíaca?",
+            "respostes": {
+                "a": "Radiografia de tòrax",
+                "b": "Electrocardiograma (ECG)",
+                "c": "Ecocardiograma",
+                "d": "Ecocardiografia transesofàgica"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 39,
+            "text": "Quin criteri funcional confirma la reversibilitat característique de l’asma?",
+            "respostes": {
+                "a": "Absència de resposta als broncodilatadors",
+                "b": "Relació FEV1/FVC < 0,7 fixa",
+                "c": "Disminució progressiva de la TLC",
+                "d": "Increment del FEV1 ≥ 12% i ≥ 200 ml després de broncodilatador"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 40,
+            "text": "Assenyala l’opció correcta en relació amb l’atelectàsia:",
+            "respostes": {
+                "a": "Provoca un augment de la ventilació alveolar",
+                "b": "És sempre conseqüència d’un procés infecciós respiratori",
+                "c": "És el col·lapse parcial o total del teixit pulmonar amb alteració de l’intercanvi gasós",
+                "d": "Sempre es produeix per alteracions obstructives"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 41,
+            "text": "Quina prova és el gold standard per al diagnòstic de bronquiectàsies?",
+            "respostes": {
+                "a": "TAC d’alta resolució (TACAR)",
+                "b": "Radiografia simple de tòrax",
+                "c": "Espirometria basal",
+                "d": "Oximetria de pols"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 42,
+            "text": "Assenyala l’opció correcta en relació amb el cor pulmonale:",
+            "respostes": {
+                "a": "És una insuficiència cardíaca dreta secundària a malaltia pulmonar",
+                "b": "És causada per patologia del cor esquerre",
+                "c": "No s’associa a hipertensió pulmonar",
+                "d": "És una entitat congènita"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 43,
+            "text": "Quin criteri espiromètric confirma el diagnòstic d’EPOC?",
+            "respostes": {
+                "a": "Disminució exclusiva de la DLCO",
+                "b": "Relació FEV1/FVC > 0,8",
+                "c": "Normalització completa del FEV1 després del broncodilatador",
+                "d": "Relació FEV1/FVC < 0,7 post-broncodilatador"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 44,
+            "text": "Quina és la causa més habitual de l’estenosi mitral?",
+            "respostes": {
+                "a": "Calcificació degenerativa senil",
+                "b": "Fiebre reumàtica",
+                "c": "Endocarditis infecciosa aguda",
+                "d": "Dilatació de l’arrel aòrtica"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 45,
+            "text": "Assenyala l’opció correcta en relació amb la fibrosis pulmonar idiopàtica:",
+            "respostes": {
+                "a": "Té un pronòstic excel·lent sense tractament",
+                "b": "És una patologia obstructiva amb hiperreactivitat bronquial",
+                "c": "Presenta una millora espontània freqüent",
+                "d": "És una malaltia intersticial amb fibrosi progressiva del parènquima pulmonar"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 46,
+            "text": "Quina alteració fisiopatològica és característica de la fibrosis quística?",
+            "respostes": {
+                "a": "Destrucció alveolar amb augment de la compliança pulmonar",
+                "b": "Vasoconstricció pulmonar per hipertensió arterial",
+                "c": "Producció de secrecions espesses per alteració del transport de clor i sodi",
+                "d": "Alteració exclusiva del múscul llis bronquial"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 47,
+            "text": "Quins són els valors de referència normals d’una gasometria arterial en un adult sa?",
+            "respostes": {
+                "a": "pH 7,35–7,45; PaO₂ 75–100 mmHg; PaCO₂ 35–45 mmHg",
+                "b": "pH 7,25–7,35; PaO₂ 60–75 mmHg; PaCO₂ 45–55 mmHg",
+                "c": "pH 7,45–7,55; PaO₂ >100 mmHg; PaCO₂ <30 mmHg",
+                "d": "pH <7,25; PaO₂ <60 mmHg; PaCO₂ >50 mmHg"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 48,
+            "text": "Quina prova és fonamental per classificar la insuficiència cardíaca segons la fracció d’ejecció?",
+            "respostes": {
+                "a": "Electrocardiograma",
+                "b": "Ecocardiografia",
+                "c": "Radiografia de tòrax",
+                "d": "Prova d’esforç"
+            },
+            "correcta": "b",
+            "type": "multi"
+        },
+        {
+            "id": 49,
+            "text": "Quin criteri gasomètric defineix la insuficiència respiratòria hipoxèmica?",
+            "respostes": {
+                "a": "PaO₂ < a 90 mmHg amb PaCO₂ > a 50 mmHg",
+                "b": "PaCO₂ > 45 mmHg sense hipoxèmia",
+                "c": "pH < 7,25 amb PaO₂ normal",
+                "d": "PaO₂ < 60 mmHg amb PaCO₂ normal o baix"
+            },
+            "correcta": "d",
+            "type": "multi"
+        },
+        {
+            "id": 50,
+            "text": "Quin microorganisme és la causa més freqüent de la pneumònia adquirida a la comunitat (NAC)?",
+            "respostes": {
+                "a": "Staphylococcus aureus",
+                "b": "Pseudomonas aeruginosa",
+                "c": "Streptococcus pneumoniae",
+                "d": "Escherichia coli"
+            },
+            "correcta": "c",
+            "type": "multi"
+        },
+        {
+            "id": 51,
+            "text": "Quina afirmació és correcta en relació amb els mecanismes pels quals el tabaquisme incrementa el risc cardiovascular?",
+            "respostes": {
+                "a": "Afavoreix la vasoconstricció, augmenta l’agregació plaquetària i redueix la capacitat de transport d’oxigen",
+                "b": "Disminueix la freqüència cardíaca i millora l’oxigenació miocàrdica",
+                "c": "Augmenta el colesterol HDL i redueix la inflamació endotelial",
+                "d": "No té efectes directes sobre la pressió arterial ni sobre la coagulació"
+            },
+            "correcta": "a",
+            "type": "multi"
+        },
+        {
+            "id": 52,
+            "text": "Quina és la prova d’elecció per al diagnòstic del TEP?",
+            "respostes": {
+                "a": "Radiografia simple de tòrax",
+                "b": "Angio-TC pulmonar",
+                "c": "Ecografia toràcica",
+                "d": "Espirometria"
+            },
+            "correcta": "b",
+            "type": "multi"
+        }
+    ]
+}
